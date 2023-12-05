@@ -16,7 +16,7 @@ Therefore, we settled on using "im.db", a SQL database for IMDB. IMDB (or, the I
 
 Additionally, we chose to use "tmdb.movies.csv.gz". This data came from "The Movie Database", and spanned the years 2013 to 2018. We chose this dataset because it contained a rating system, as well as title information.
 
-Finally, as our third data source, we chose "tn.movie_budgets.csv.gz". This data came from The Numbers, and features such information as budget (what a movie cost to make), domestic gross and worldwide gross. These figures are very important for mathematical calculations, and answering the question of how much a movie is worth in a quantifiable amount.
+Finally, as our third data source, we chose "tn.movie_budgets.csv.gz". This data came from The Numbers, and features such information as budget (what a movie cost to make), domestic gross and worldwide gross. These figures are very important for mathematical calculations, and answering the question of how much a movie is worth in a quantifiable amount. Finally, in terms of our basic data understanding, we must load in the IMDB SQL Database and attempt to discover roughly the same information, though the schema is very different and so therefore is the information contained within.
 
 ## Data Preparation
 ## Analysis and Recommendations
