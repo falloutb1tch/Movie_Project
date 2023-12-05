@@ -1,0 +1,375 @@
+Unnamed: 0,genre_ids,popularity,release_date,title,vote_average,vote_count,weighted_rating
+0,"Adventure, Fantasy, Family",33.533,2010-11-19,Harry Potter and the Deathly Hallows: Part 1,7.7,10788,7.526051949381699
+1,"Fantasy, Adventure, Animation, Family",28.734,2010-03-26,How to Train Your Dragon,7.7,7610,7.4739495078298654
+2,"Adventure, Action, Science Fiction",28.515,2010-05-07,Iron Man 2,6.8,12368,6.81962547358634
+3,"Animation, Comedy, Family",28.005,1995-11-22,Toy Story,7.9,10174,7.672400506913228
+4,"Action, Science Fiction, Adventure",27.92,2010-07-16,Inception,8.3,22186,8.133304386487527
+5,"Adventure, Fantasy, Family",26.691,2010-02-11,Percy Jackson & the Olympians: The Lightning Thief,6.1,4229,6.4322180492564485
+6,"Action, Adventure, Fantasy, Science Fiction",26.526,2009-12-18,Avatar,7.4,18676,7.330873052134844
+7,"Animation, Family, Comedy",24.445,2010-06-17,Toy Story 3,7.7,8340,7.488501259089494
+8,"Animation, Family, Comedy",23.673000000000002,2010-07-09,Despicable Me,7.2,10057,7.131194323204019
+9,"Animation, Action, Comedy, Family, Science Fiction",22.855,2010-11-04,Megamind,6.8,3635,6.845456560373002
+10,"Animation, Comedy, Family",22.698,1999-11-24,Toy Story 2,7.5,7553,7.329584409937919
+11,"Family, Fantasy, Adventure",22.02,2010-03-05,Alice in Wonderland,6.6,8713,6.6769746672991435
+12,"Thriller, Adventure, Action",21.517,2010-08-03,The Expendables,6.1,4647,6.414058359889482
+13,"Animation, Family",21.511,2010-11-24,Tangled,7.5,6407,7.308823671529166
+15,"Adventure, Fantasy, Drama, Romance",20.34,2010-06-23,The Twilight Saga: Eclipse,6.0,4909,6.34158607637816
+16,"Action, Thriller, Science Fiction",18.985,2010-01-11,The Book of Eli,6.7,3495,6.792625754899903
+18,"Action, Drama, Thriller",18.199,2004-07-23,The Bourne Supremacy,7.3,4367,7.137329208371775
+19,"Drama, Thriller, Mystery",18.06,2010-02-18,Shutter Island,8.1,12625,7.869702673796792
+20,"Action, Drama, Mystery, Thriller",17.935,2002-06-14,The Bourne Identity,7.4,5406,7.221746880570411
+22,"Adventure, Family, Fantasy",17.382,2010-12-10,The Chronicles of Narnia: The Voyage of the Dawn Treader,6.3,3196,6.59076892803016
+25,"Drama, History",16.798,2010-09-06,The King's Speech,7.7,5013,7.400686918516769
+29,Drama,15.889000000000001,2010-10-01,The Social Network,7.2,6116,7.101448472803299
+32,"Action, Thriller, Science Fiction, Adventure",15.799000000000001,1998-07-01,Armageddon,6.7,4267,6.78278578203865
+33,"Action, Drama, Mystery, Thriller",15.62,2007-08-03,The Bourne Ultimatum,7.4,4440,7.198602725547698
+34,"Adventure, Fantasy, Action",15.574000000000002,2010-04-02,Clash of the Titans,5.7,3714,6.236431974690925
+38,"Comedy, Adventure, Fantasy, Animation, Family",15.040999999999999,2010-05-16,Shrek Forever After,6.1,3843,6.450957807697628
+39,Comedy,14.69,2010-09-17,Easy A,6.8,4168,6.842076489686784
+41,"Action, Comedy, Romance",14.383,2010-08-13,Scott Pilgrim vs. the World,7.3,3882,7.125865195884172
+42,Comedy,14.290999999999999,2010-06-24,Grown Ups,6.1,3171,6.48917586745663
+47,"Drama, Thriller",13.745,2010-12-03,Black Swan,7.6,8374,7.415509431868723
+54,"Adventure, Action, Science Fiction",13.459000000000001,2010-12-10,TRON: Legacy,6.3,4387,6.5438884903309695
+55,"Adventure, Fantasy, Action, Romance",13.44,2010-05-27,Prince of Persia: The Sands of Time,6.2,4040,6.498523334953816
+61,"Action, Crime",13.08,2010-04-16,Kick-Ass,7.1,7540,7.043226212341068
+63,"Action, Mystery, Thriller",13.025,2010-07-23,Salt,6.3,3240,6.58871863430687
+76,"Action, Adventure, Drama, Family",12.255999999999998,2010-06-10,The Karate Kid,6.3,3140,6.593420892194604
+81,"Action, Adventure, Comedy, Crime, Thriller",12.082,2010-10-14,RED,6.6,4162,6.725887221177725
+93,"Adventure, Drama, Thriller",11.435,2010-11-05,127 Hours,7.0,4469,6.960048772000919
+118,"Action, Thriller, Romance",10.307,2010-12-10,The Tourist,6.1,3133,6.491587196816381
+2468,"Adventure, Fantasy, Action",38.068000000000005,2011-05-06,Thor,6.7,12764,6.738163174199117
+2469,Comedy,32.266,2011-05-25,The Hangover Part II,6.4,6231,6.562669730048194
+2470,"Adventure, Action, Fantasy",30.579,2011-05-20,Pirates of the Caribbean: On Stranger Tides,6.4,8571,6.529773077355014
+2471,"Family, Fantasy, Adventure",29.206,2011-07-15,Harry Potter and the Deathly Hallows: Part 2,8.1,11567,7.852976198124176
+2472,"Family, Animation, Drama",28.583000000000002,1994-06-23,The Lion King,8.2,10160,7.903769322042163
+2474,"Action, Adventure, Science Fiction",25.808000000000003,2011-07-22,Captain America: The First Avenger,6.9,12810,6.900101472364003
+2475,"Animation, Family, Adventure, Comedy",23.498,2011-06-16,Cars 2,5.9,4058,6.32527688836425
+2476,"Thriller, Action, Drama, Science Fiction",22.995,2011-08-04,Rise of the Planet of the Apes,7.2,7259,7.112428528908749
+2479,"Thriller, Mystery, Science Fiction",19.453,2011-03-08,Limitless,7.1,6295,7.035621762030647
+2480,"Adventure, Fantasy, Romance",19.22,2011-11-17,The Twilight Saga: Breaking Dawn - Part 1,6.0,5098,6.333613766124335
+2481,"Action, Thriller, Science Fiction",18.912,2011-10-28,In Time,6.8,6245,6.8326235022255135
+2483,"Action, Thriller, Adventure",18.304000000000002,2011-12-21,Mission: Impossible - Ghost Protocol,7.0,6102,6.9672164664991065
+2484,"Adventure, Action, Crime, Mystery",18.301,2011-12-16,Sherlock Holmes: A Game of Shadows,7.1,6380,7.036205146916298
+2485,Drama,18.012999999999998,1997-12-05,Good Will Hunting,8.1,5764,7.689411715891701
+2486,"Thriller, Crime, Mystery, Drama",17.823,2011-12-14,The Girl with the Dragon Tattoo,7.3,3971,7.12808840597832
+2489,"Animation, Family",17.363,2011-05-25,Kung Fu Panda 2,6.7,3628,6.7907670908380915
+2490,"Adventure, Action, Thriller, Science Fiction",17.257,2011-06-17,Green Lantern,5.1,4290,5.840960806320283
+2491,"Science Fiction, Drama, Romance, Fantasy",17.242,2011-12-20,Mr. Nobody,7.9,3279,7.422472412497989
+2497,"Action, Science Fiction, Thriller, Western",16.293,2011-07-29,Cowboys & Aliens,5.5,3110,6.187660274644005
+2498,"Horror, Thriller",16.197,2011-04-01,Insidious,6.9,3582,6.900243737173332
+2500,"Horror, Action, Thriller, Crime",16.064,1996-01-19,From Dusk Till Dawn,7.0,3015,6.950391401176205
+2502,"Drama, Action, Thriller, Crime",15.875,2011-09-16,Drive,7.5,6737,7.315302893917517
+2506,"Horror, Comedy, Thriller",15.335999999999999,2012-04-12,The Cabin in the Woods,6.5,4185,6.667237895347929
+2508,"Adventure, Comedy, Science Fiction",15.234000000000002,2011-03-17,Paul,6.5,3017,6.6997015585964546
+2513,"Action, Science Fiction, Drama",14.811,2011-10-06,Real Steel,6.8,4566,6.839863108389488
+2517,"Animation, Adventure, Comedy, Family",14.695,2011-04-15,Rio,6.6,3730,6.73396794622212
+2520,"Animation, Comedy, Family, Western, Adventure",14.462,2011-03-03,Rango,6.6,3412,6.740612020909992
+2523,"Thriller, Science Fiction, Mystery",14.39,2011-06-09,Super 8,6.7,3934,6.786761505346822
+2528,"Comedy, Crime",14.058,2011-07-08,Horrible Bosses,6.5,3842,6.675621788669229
+2529,"Romance, Comedy",14.019,2011-07-21,Friends with Benefits,6.6,4637,6.7180573887750255
+2535,"Thriller, Science Fiction, Mystery",13.495,2011-04-01,Source Code,7.2,4529,7.080675292611883
+2538,"Comedy, Drama, Romance",13.277000000000001,2011-07-29,"Crazy, Stupid, Love.",7.2,4585,7.081556266061288
+2539,"Fantasy, Comedy, Romance",13.171,2011-05-20,Midnight in Paris,7.5,3965,7.241795301949012
+2544,"Adventure, Drama, Family",12.936,2011-11-23,Hugo,7.1,4124,7.016002846445096
+2552,Drama,12.597999999999999,2011-08-10,The Help,8.1,3944,7.581797851105252
+2569,"Adventure, Animation, Mystery",11.981,2011-12-20,The Adventures of Tintin,6.8,3251,6.848248964657634
+2966,"Action, Science Fiction, Adventure",5.3389999999999995,2011-06-28,Transformers: Dark of the Moon,6.1,4961,6.40167118177049
+3424,"Action, Thriller, Crime",2.097,2011-04-28,Fast Five,7.2,4294,7.0768308579757155
+3672,"Action, Science Fiction, Adventure",1.4469999999999998,2011-06-03,X-Men: First Class,7.2,8211,7.119864800470508
+5179,"Science Fiction, Action, Adventure",50.288999999999994,2012-05-04,The Avengers,7.6,19673,7.5074495778271455
+5180,"Adventure, Fantasy, Action",26.939,2012-12-14,The Hobbit: An Unexpected Journey,7.2,12076,7.140408880211918
+5181,"Romance, Family, Animation, Fantasy",26.701,2012-01-13,Beauty and the Beast,7.7,5730,7.425269676755425
+5182,"Action, Crime, Drama, Thriller",26.22,2012-07-20,The Dark Knight Rises,7.7,13933,7.558359669171137
+5183,"Action, Comedy, Science Fiction",26.176,2012-05-25,Men in Black 3,6.4,6398,6.5597791315253104
+5184,"Science Fiction, Adventure, Mystery",24.98,2012-06-08,Prometheus,6.4,7384,6.544607499814607
+5185,"Comedy, Romance",24.491,1999-07-09,American Pie,6.4,4316,6.6052493545755695
+5186,"Action, Adventure, Fantasy",24.391,2012-07-04,The Amazing Spider-Man,6.5,10411,6.589598410116685
+5187,"Family, Animation, Comedy, Adventure",22.967,2012-11-02,Wreck-It Ralph,7.3,7780,7.188831565684126
+5188,"Thriller, Action, Adventure, Science Fiction",21.741999999999997,2012-05-18,Battleship,5.6,3240,6.225257095845331
+5189,"Drama, Western",21.26,2012-12-25,Django Unchained,8.0,15725,7.823850695758337
+5190,"Adventure, Fantasy, Drama",21.233,2012-06-01,Snow White and the Huntsman,5.9,5258,6.263478357722799
+5193,"Action, Adventure, Thriller",19.27,2012-11-09,Skyfall,7.1,10441,7.055479821298628
+5195,"Animation, Adventure, Comedy, Family, Action, Fantasy",18.908,2012-06-22,Brave,6.9,8116,6.900144321525268
+5196,"Animation, Family, Comedy",18.705,2012-06-08,Madagascar 3: Europe's Most Wanted,6.5,3380,6.68833922853838
+5197,"Action, Adventure, Science Fiction",18.549,2012-03-09,John Carter,6.1,3338,6.478921470191679
+5198,"Crime, Drama, Thriller, Action",18.312,2012-12-21,Jack Reacher,6.4,4155,6.60986782363031
+5200,"Action, Thriller",18.05,2012-08-10,The Bourne Legacy,6.1,3630,6.462232922786557
+5202,"Animation, Comedy, Adventure, Family",17.537,2012-07-13,Ice Age: Continental Drift,6.3,4598,6.5371155933238825
+5203,"Action, Science Fiction, Adventure, Thriller",17.243,2012-08-03,Total Recall,5.9,3486,6.362782034855823
+5204,"Action, Adventure, Thriller",17.215999999999998,2012-08-17,The Expendables 2,6.2,4219,6.491121246443395
+5206,"Horror, Action",17.175,1998-08-21,Blade,6.6,3137,6.746912869166509
+5207,"Action, Thriller, Science Fiction",16.779,2012-09-28,Looper,6.8,6723,6.831019672742452
+5208,"Adventure, Fantasy, Drama, Romance",16.542,2012-11-16,The Twilight Saga: Breaking Dawn - Part 2,6.3,5130,6.521599542198631
+5209,"Action, Crime, Thriller",16.078,2012-10-04,Taken 2,6.2,4035,6.49873550505684
+5212,"Drama, Thriller",15.793,2012-10-12,Argo,7.2,5127,7.089455429811108
+5213,"Comedy, Fantasy",15.75,2012-05-11,Dark Shadows,5.9,4197,6.317063259424047
+5218,"Drama, Comedy, Romance",15.350999999999999,2012-12-25,Silver Linings Playbook,7.1,7636,7.04373864968737
+5220,"Animation, Comedy, Family, Fantasy",15.318,2012-09-28,Hotel Transylvania,6.9,5013,6.900200209419053
+5222,Drama,15.148,2012-09-21,The Perks of Being a Wallflower,7.8,5938,7.498098487141963
+5223,"Adventure, Drama, Action",15.0,2012-11-21,Life of Pi,7.3,8723,7.19777397236841
+5225,"Animation, Family, Fantasy",14.934000000000001,2012-11-21,Rise of the Guardians,7.3,3697,7.121054842179314
+5226,"Action, Comedy, Crime",14.835999999999999,2012-03-12,21 Jump Street,6.8,6527,6.831657843820182
+5227,"Drama, Science Fiction",14.681,2012-10-26,Cloud Atlas,6.8,4505,6.840187112335093
+5228,"Thriller, Drama",14.66,2012-12-04,The Impossible,7.2,3614,7.064167565478511
+5231,"Comedy, Fantasy",14.475,2012-06-29,Ted,6.3,7727,6.467950431441676
+5235,"Science Fiction, Adventure, Fantasy",14.212,2012-03-23,The Hunger Games,7.1,14587,7.06597511105219
+5236,"Comedy, Drama, Romance",14.085999999999999,2012-05-25,Moonrise Kingdom,7.7,3023,7.301793836638697
+5239,"Comedy, Music, Romance",13.886,2012-09-28,Pitch Perfect,7.3,4233,7.134315536855366
+5260,Comedy,12.592,2012-05-16,The Dictator,6.0,3042,6.4471374177548615
+5261,"Science Fiction, Drama, Thriller",12.556,2012-02-02,Chronicle,6.7,3084,6.798883017435054
+5275,Drama,11.692,2012-11-02,Flight,6.7,3582,6.79140143999922
+5295,"History, Drama",10.458,2012-12-25,Les Misérables,7.4,3283,7.161515880642188
+7881,"Action, Adventure, Science Fiction",32.093,2013-05-03,Iron Man 3,6.9,14155,6.900093516646743
+7882,"Action, Adventure, Fantasy",31.014,2013-11-08,Thor: The Dark World,6.7,10171,6.7456764314080075
+7883,"Crime, Drama, Comedy",29.518,2013-12-25,The Wolf of Wall Street,7.9,12411,7.705437951987208
+7884,"Science Fiction, Thriller, Drama",27.836,2013-10-04,Gravity,7.2,9586,7.128619440495381
+7885,"Action, Adventure, Fantasy, Science Fiction",27.666999999999998,2013-06-14,Man of Steel,6.5,9758,6.594184376710681
+7888,"Science Fiction, Horror, Thriller",24.364,2013-06-06,The Purge,6.2,4797,6.469540115182104
+7890,"Adventure, Fantasy, Action",21.275,2013-12-13,The Hobbit: The Desolation of Smaug,7.6,7739,7.404600454239209
+7891,"Action, Adventure, Science Fiction",20.487,2013-05-16,Star Trek Into Darkness,7.4,6182,7.23681161817413
+7892,"Animation, Family",20.33,2013-06-21,Monsters University,7.0,6362,6.968126925664908
+7893,"Adventure, Action, Science Fiction",20.187,2013-11-22,The Hunger Games: Catching Fire,7.4,11170,7.294255771212058
+7894,"Animation, Comedy, Family",19.014,2013-07-03,Despicable Me 2,6.9,7319,6.900155468366592
+7895,"Horror, Thriller",18.886,2013-07-19,The Conjuring,7.5,5912,7.298205147898885
+7896,"Action, Science Fiction, Adventure, Mystery",18.534000000000002,2013-04-18,Oblivion,6.5,6850,6.621990282038057
+7897,Comedy,18.519000000000002,2013-05-23,The Hangover Part III,6.1,5130,6.395400280206011
+7902,"Science Fiction, Action, Drama, Thriller",17.663,2013-08-09,Elysium,6.4,5406,6.578634817758134
+7907,"Action, Science Fiction, Adventure",16.759,2013-07-12,Pacific Rim,6.8,7632,6.828367595755725
+7909,"Thriller, Crime",16.646,2013-05-31,Now You See Me,7.4,9871,7.283583581545713
+7911,"Drama, History",16.493,2013-10-30,12 Years a Slave,7.9,6631,7.588672440875804
+7914,"Action, Adventure, Animation, Comedy, Family, Fantasy",16.29,2013-03-22,The Croods,6.8,3873,6.843882478986595
+7916,"Fantasy, Horror, Action",15.982000000000001,2013-01-25,Hansel & Gretel: Witch Hunters,5.9,4548,6.2976688232743605
+7917,"Romance, Science Fiction, Drama",15.968,2013-12-18,Her,7.9,7776,7.621752438574133
+7919,"Action, Thriller",15.857999999999999,2013-02-14,A Good Day to Die Hard,5.2,4437,5.885976103008588
+7920,"Adventure, Family, Fantasy",15.762,2013-08-07,Percy Jackson: Sea of Monsters,5.9,3109,6.391341345240607
+7921,"Science Fiction, Action, Adventure",15.533,2013-11-01,Ender's Game,6.6,3558,6.737481591655209
+7922,"Action, Drama, Thriller",15.482999999999999,2013-10-11,Captain Phillips,7.6,3909,7.296280833416539
+7924,"Drama, Romance",15.397,2013-05-10,The Great Gatsby,7.4,7120,7.2519371816279525
+7925,"Horror, Adventure, Action",15.259,2004-05-07,Van Helsing,6.1,3047,6.49715632182485
+7926,"Adventure, Action, Science Fiction, Thriller",15.065,2013-03-29,G.I. Joe: Retaliation,5.5,3883,6.110432119435546
+7932,"Action, Adventure, Crime",14.793,2013-08-16,Kick-Ass 2,6.4,3785,6.621312347542354
+7933,"Comedy, Crime",14.745999999999999,2013-08-07,We're the Millers,6.8,5231,6.836642483060974
+7934,"Drama, Action",14.623,2013-09-27,Rush,7.7,3877,7.351243896768194
+7935,"Action, Drama, Horror, Science Fiction, Thriller",14.582,2013-06-21,World War Z,6.7,9132,6.749588219425888
+7937,"Science Fiction, Action, Adventure",14.415,2013-05-31,After Earth,5.1,4154,5.8550467260378625
+7938,"Drama, Thriller, Crime",14.357999999999999,2013-09-21,Prisoners,8.0,5785,7.624542319644265
+7940,"Comedy, Drama, Science Fiction",14.133,2013-11-08,About Time,7.9,3981,7.470491946436738
+7943,"Action, Thriller",13.864,2013-03-22,Olympus Has Fallen,6.2,4086,6.496585418864645
+7951,"Fantasy, Adventure, Family",13.377,2013-03-08,Oz the Great and Powerful,5.8,4829,6.221714686176378
+7953,"Horror, Comedy, Romance",13.259,2013-02-01,Warm Bodies,6.3,4109,6.553425837399757
+7964,"Action, Adventure, Family, Fantasy",12.773,2013-03-01,Jack the Giant Slayer,5.6,3403,6.209340040305305
+7967,"Action, Adventure, Western",12.482000000000001,2013-07-03,The Lone Ranger,6.0,3789,6.397938470772553
+7968,"Drama, Crime",12.481,2013-12-12,American Hustle,6.8,4443,6.840521869954974
+7970,"Drama, History",12.389000000000001,2013-11-22,Dallas Buyers Club,7.9,4961,7.5233644363867445
+7998,"Adventure, Comedy, Drama, Fantasy",10.743,2013-12-25,The Secret Life of Walter Mitty,7.1,4859,7.023858541554253
+8001,"Action, Comedy",10.635,2013-06-12,This Is the End,6.2,3789,6.5095602118242555
+8491,"Action, Science Fiction, Adventure, Fantasy",4.323,2013-07-25,The Wolverine,6.3,6176,6.496338739982003
+8880,"Action, Thriller, Crime",2.114,2013-05-22,Fast & Furious 6,6.8,7077,6.829929967061117
+11019,"Action, Thriller",78.123,2014-10-24,John Wick,7.2,10081,7.131320562500946
+11020,"Action, Adventure, Fantasy",53.783,2014-12-17,The Hobbit: The Battle of the Five Armies,7.3,8392,7.194803746319774
+11021,"Action, Science Fiction, Adventure",49.606,2014-08-01,Guardians of the Galaxy,7.9,17958,7.756933117572043
+11022,"Action, Adventure, Fantasy, Science Fiction",41.867,2014-05-23,X-Men: Days of Future Past,7.5,10062,7.362318502379029
+11023,"Action, Mystery, Science Fiction, Thriller",36.955,2014-09-19,The Maze Runner,7.1,10626,7.056084271104863
+11024,"Adventure, Family, Animation, Action, Comedy",36.92,2014-11-07,Big Hero 6,7.8,10176,7.5952037248083535
+11025,"Science Fiction, Adventure, Thriller",33.836999999999996,2014-11-21,The Hunger Games: Mockingjay - Part 1,6.8,10087,6.823046097507058
+11026,"History, Drama, Thriller, War",33.078,2014-12-19,The Imitation Game,8.1,10396,7.831382821594123
+11027,"Mystery, Thriller, Drama",31.215,2014-10-03,Gone Girl,7.9,10459,7.677220022146882
+11028,"War, Drama, Action",29.116999999999997,2014-10-17,Fury,7.4,6653,7.244774088684851
+11029,"Horror, Action, Drama, Fantasy, War",29.043000000000003,2014-10-03,Dracula Untold,6.2,3719,6.5127852772845465
+11030,"Thriller, Action, Crime",28.941999999999997,2014-09-26,The Equalizer,7.2,4989,7.087545910386139
+11032,"Adventure, Drama, Science Fiction",28.44,2014-11-05,Interstellar,8.2,18597,8.01949364625063
+11033,"Horror, Thriller",28.424,2014-07-18,The Purge: Anarchy,6.6,3754,6.733491897849403
+11034,"Science Fiction, Action, Drama, Thriller",27.641,2014-07-11,Dawn of the Planet of the Apes,7.3,7080,7.1811115355233
+11035,"Fantasy, Action, Adventure, Animation, Comedy, Family",27.105999999999998,2014-06-13,How to Train Your Dragon 2,7.7,5589,7.420759608577816
+11037,"Crime, Comedy, Action, Adventure",26.103,2015-02-13,Kingsman: The Secret Service,7.6,10287,7.442071519385479
+11038,"Science Fiction, Action, Adventure, Fantasy, Comedy",25.619,2014-08-08,Teenage Mutant Ninja Turtles,5.8,4259,6.254829078120245
+11039,"Crime, Drama, Thriller",25.596999999999998,2014-10-31,Nightcrawler,7.7,5860,7.429300708586329
+11041,"Action, Drama, Science Fiction",24.982,2014-05-16,Godzilla,6.1,5053,6.3982247954892415
+11043,"Action, War, Fantasy",23.68,2014-03-07,300: Rise of an Empire,6.0,3870,6.393246619807114
+11044,"Drama, Comedy",21.833000000000002,2014-10-17,Birdman,7.4,7747,7.260575442269923
+11045,"Science Fiction, Action, Adventure",20.961,2014-06-27,Transformers: Age of Extinction,5.8,4805,6.2230114385746145
+11048,"Action, Adventure, Fantasy",20.846999999999998,2014-05-02,The Amazing Spider-Man 2,6.4,7220,6.546928011553314
+11050,"Adventure, Comedy, Fantasy, Family",20.064,2014-12-19,Night at the Museum: Secret of the Tomb,6.1,3536,6.4674425150053345
+11051,"Action, Science Fiction",19.753,2014-06-06,Edge of Tomorrow,7.6,8047,7.410048364087523
+11052,"Adventure, Animation, Comedy, Family, Fantasy",19.375,2014-02-07,The Lego Movie,7.4,4839,7.208853715789625
+11054,"Fantasy, Adventure, Action, Family, Romance",19.274,2014-05-30,Maleficent,7.0,8143,6.973221240067744
+11055,"Horror, Mystery, Crime",19.127,2004-10-29,Saw,7.4,4795,7.207774763062844
+11057,"War, Action",18.473,2014-12-25,American Sniper,7.4,7658,7.259411172647296
+11059,"Horror, Thriller",18.419,2015-03-27,It Follows,6.5,3485,6.6852897884463935
+11061,"Comedy, Drama",18.31,2014-03-07,The Grand Budapest Hotel,8.0,8091,7.7026061020714875
+11063,"Action, Adventure, Science Fiction",18.073,2014-04-04,Captain America: The Winter Soldier,7.7,11034,7.5291010601449955
+11064,"Action, Science Fiction",17.851,2014-02-12,RoboCop,5.8,3390,6.316682985614221
+11066,"Action, Adventure, Science Fiction",16.982,2014-03-21,Divergent,6.9,8279,6.900142235843148
+11068,"Action, Science Fiction",16.73,2014-07-25,Lucy,6.3,10019,6.438382692839301
+11072,"Romance, Drama",16.03,2014-05-16,The Fault in Our Stars,7.6,7236,7.394998464055771
+11078,"Action, Comedy",15.501,2014-12-25,The Interview,6.2,3579,6.519441294737023
+11083,Comedy,14.979000000000001,2014-05-09,Neighbors,6.2,4536,6.4788753022923125
+11091,Horror,13.989,2014-10-03,Annabelle,5.6,3357,6.213749296535294
+11095,"Drama, Romance",13.866,2014-11-26,The Theory of Everything,7.9,6412,7.581428418834984
+11126,"Drama, Horror",11.502,2014-11-28,The Babadook,6.4,3528,6.630025165146273
+11129,"Comedy, Romance",11.338,2014-12-06,"Love, Rosie",7.8,3594,7.390780145294945
+11136,"Crime, Comedy, Action",11.175999999999998,2014-06-13,22 Jump Street,6.9,5167,6.900196434195527
+11138,Drama,11.140999999999998,2014-07-11,Boyhood,7.5,3097,7.2050359649130495
+11248,"Drama, Science Fiction",8.687000000000001,2014-08-11,The Giver,6.5,3075,6.697794942892982
+14169,"Action, Adventure, Science Fiction",44.383,2015-05-01,Avengers: Age of Ultron,7.3,13457,7.227180183391558
+14171,"Science Fiction, Action, Adventure",32.715,2015-07-17,Ant-Man,7.1,11949,7.05997085277108
+14172,"Action, Adventure, Science Fiction, Fantasy",32.281,2015-12-18,Star Wars: The Force Awakens,7.4,12641,7.304200772206053
+14174,"Science Fiction, Action, Thriller, Adventure",31.11,2015-07-01,Terminator Genisys,5.9,5309,6.261247355647475
+14175,"Action, Adventure, Crime",30.318,2015-11-06,Spectre,6.4,6719,6.554501932099482
+14176,"Romance, Fantasy, Family, Drama",29.055999999999997,2015-03-13,Cinderella,6.7,4517,6.780032496750682
+14177,"Action, Adventure, Science Fiction",28.099,2015-05-15,Mad Max: Fury Road,7.4,14454,7.3141517290062374
+14178,"Thriller, Action",27.679000000000002,2015-01-09,Taken 3,6.1,3406,6.474899200448777
+14179,"Action, Drama, Thriller",27.414,2015-05-29,San Andreas,6.1,5125,6.39558206499383
+14182,"Action, Adventure, Science Fiction, Thriller",25.456,2015-03-20,Insurgent,6.3,6771,6.484382793785167
+14183,"Action, Drama",25.305,2015-07-24,Southpaw,7.4,3424,7.166750354619376
+14185,"Crime, Action, Science Fiction",24.52,2015-03-06,Chappie,6.7,4995,6.775247564487162
+14186,"Science Fiction, Fantasy, Action, Adventure",24.058000000000003,2015-02-27,Jupiter Ascending,5.3,4401,5.948777770311427
+14188,"Drama, Adventure, Science Fiction",22.855999999999998,2015-10-02,The Martian,7.7,12172,7.541919607044218
+14191,"Drama, Romance, Thriller",21.229,2015-02-13,Fifty Shades of Grey,5.4,6451,5.876309837908673
+14193,"Action, Adventure, Science Fiction, Thriller",20.709,2015-06-12,Jurassic World,6.6,14056,6.652861414052232
+14194,"Crime, Drama, Mystery, Western",20.680999999999997,2015-12-25,The Hateful Eight,7.7,8065,7.483244851159048
+14195,"Action, Crime, Thriller",20.468,2015-09-18,Sicario,7.3,4475,7.139679502083594
+14196,"Action, Crime, Thriller",20.396,2015-04-03,Furious 7,7.3,6538,7.174355659265556
+14197,Action,20.177,2015-07-31,Mission: Impossible - Rogue Nation,7.1,5242,7.0273967821008085
+14198,"Adventure, Family, Mystery, Science Fiction",20.136,2015-05-22,Tomorrowland,6.2,4610,6.476163505660297
+14199,"Drama, Thriller",20.0,2015-10-16,Room,8.1,5494,7.67636028703495
+14202,"Action, Adventure, Science Fiction",19.487000000000002,2015-11-18,The Hunger Games: Mockingjay - Part 2,6.8,7609,6.828429095869061
+14203,"Western, Drama, Adventure",19.41,2015-12-25,The Revenant,7.4,11064,7.293458779726598
+14207,"Comedy, Action, Adventure",18.956,2015-08-14,The Man from U.N.C.L.E.,7.1,3525,7.008291843383121
+14208,"Drama, Science Fiction",18.485,2015-04-10,Ex Machina,7.6,8026,7.409686584262186
+14210,"Comedy, Music",18.469,2015-05-15,Pitch Perfect 2,6.8,3599,6.8457045428208625
+14214,Comedy,17.684,2015-06-26,Ted 2,6.1,4227,6.43230998728032
+14215,"Adventure, Animation, Family",17.675,2015-11-25,The Good Dinosaur,6.7,3135,6.798061007021168
+14218,"Action, Science Fiction, Thriller",17.31,2015-09-18,Maze Runner: The Scorch Trials,6.6,6365,6.696273815064054
+14223,"Animation, Comedy, Family, Fantasy",16.553,2015-09-25,Hotel Transylvania 2,6.7,3184,6.797284003569675
+14224,"Action, Adventure, Science Fiction",16.36,2015-08-07,Fantastic Four,4.4,3837,5.497207002789947
+14225,Drama,16.355999999999998,2015-11-25,Creed,7.3,4010,7.129044832820951
+14226,"Drama, Thriller, History",16.354,2015-11-06,Spotlight,7.8,4935,7.459937527167595
+14241,Comedy,14.377,2015-09-25,The Intern,7.1,3373,7.006104547006883
+14244,"Comedy, Drama",14.327,2015-12-11,The Big Short,7.3,4657,7.143490176057838
+14252,"Science Fiction, Thriller",13.625,2015-01-09,Predestination,7.4,3332,7.163361383145116
+14261,"Thriller, Drama",12.835999999999999,2015-10-16,Bridge of Spies,7.2,4313,7.077150865318593
+14277,Drama,12.082,2015-11-27,The Danish Girl,7.7,3655,7.339609959139725
+14283,"Drama, Mystery, Romance",11.564,2015-07-24,Paper Towns,6.0,3587,6.410141836659308
+14299,"Romance, Comedy, Crime, Drama",10.704,2015-02-27,Focus,6.8,4173,6.842047159915638
+14351,"Family, Animation, Adventure, Comedy",9.338,2015-07-10,Minions,6.4,7343,6.545180728809327
+14397,"Fantasy, Drama, Romance",8.559,2015-04-24,The Age of Adaline,7.4,3853,7.1813518572997035
+17381,"Action, Adventure, Science Fiction, Fantasy",39.293,2016-05-27,X-Men: Apocalypse,6.5,8348,6.6058868768130825
+17382,"Adventure, Action, Science Fiction",39.137,2016-05-06,Captain America: Civil War,7.4,14000,7.311859075180874
+17383,"Action, Adventure, Comedy",35.067,2016-02-12,Deadpool,7.6,20175,7.509454337781008
+17384,"Action, Adventure, Fantasy, Science Fiction",33.035,2016-11-04,Doctor Strange,7.3,12582,7.223091020284614
+17388,"Adventure, Family, Fantasy",28.563000000000002,2016-11-18,Fantastic Beasts and Where to Find Them,7.4,12152,7.301109046863442
+17390,"Action, Adventure, Fantasy",28.088,2016-03-25,Batman v Superman: Dawn of Justice,5.8,11991,6.020239095328855
+17391,"Animation, Adventure, Family, Comedy",27.549,2016-03-04,Zootopia,7.7,9977,7.51518103398897
+17392,"Action, Comedy, Thriller",25.805,2016-06-10,Now You See Me 2,6.8,6744,6.830952819999473
+17394,"Drama, Science Fiction, Mystery",25.441999999999997,2016-11-11,Arrival,7.4,10387,7.288070835741754
+17395,"Action, Thriller, Science Fiction",24.604,1991-07-03,Terminator 2: Judgment Day,7.9,6682,7.590312360883585
+17396,"Drama, History, War",24.074,2016-11-04,Hacksaw Ridge,8.1,6608,7.725479212955337
+17400,"Action, Adventure, Fantasy",21.464000000000002,2016-06-10,Warcraft,6.3,4071,6.554787763834659
+17401,"Action, Adventure, Science Fiction",21.401,2016-12-16,Rogue One: A Star Wars Story,7.5,9296,7.353741401925413
+17405,"Adventure, Drama, Family, Fantasy",20.129,2016-04-15,The Jungle Book,6.8,5257,6.836527101619822
+17412,"Action, Adventure, Science Fiction",19.142,2016-07-22,Star Trek Beyond,6.7,4275,6.782694746127129
+17413,"Drama, Fantasy, Adventure, Family",19.132,2016-09-30,Miss Peregrine's Home for Peculiar Children,6.7,6211,6.765313676916173
+17414,"Horror, Mystery, Thriller",19.058,2016-06-10,The Conjuring 2,7.2,4153,7.074402946746101
+17418,"Adventure, Action, Western",18.487000000000002,2016-09-23,The Magnificent Seven,6.2,3647,6.516173353102884
+17420,"Drama, History",18.148,2016-09-09,Sully,7.1,3924,7.013576585510524
+17422,"Thriller, Science Fiction, Drama",17.892,2016-03-11,10 Cloverfield Lane,6.9,4629,6.9002102868101804
+17426,"Adventure, Science Fiction, Action, Mystery",17.614,2016-03-18,Allegiant,6.0,4117,6.379598746392422
+17427,"Animation, Comedy, Drama, Family",17.572,2016-12-21,Sing,6.9,4303,6.9002196738429245
+17428,"Mystery, Thriller, Drama",17.41,2016-10-28,Inferno,5.9,3877,6.3364700128071645
+17429,Drama,17.215999999999998,2016-11-25,Lion,8.1,3833,7.573379815319021
+17431,"Drama, Romance",16.917,2016-06-03,Me Before You,7.7,5939,7.43169306164838
+17435,"Adventure, Family, Fantasy",16.642,2016-05-27,Alice Through the Looking Glass,6.5,3803,6.6766285871049345
+17436,Drama,16.637999999999998,2016-11-18,Manchester by the Sea,7.5,3176,7.208808982848911
+17437,"Action, Adventure, Crime, Fantasy, Science Fiction",16.53,2016-08-05,Suicide Squad,5.9,13533,6.081552306180056
+17443,"Comedy, Drama, Romance",16.275,2016-12-09,La La Land,7.9,10028,7.669849883180447
+17445,"Drama, Thriller",16.19,2016-11-18,Nocturnal Animals,7.4,4192,7.1916579919458945
+17446,"Action, Fantasy, Comedy",16.079,2016-07-15,Ghostbusters,5.4,3780,6.063953433344376
+17447,Drama,15.948,2016-10-21,Moonlight,7.4,3893,7.182620669965889
+17451,"Action, Adventure, Science Fiction",15.732000000000001,2016-06-24,Independence Day: Resurgence,5.1,3911,5.881595178422062
+17454,"Adventure, Animation, Comedy, Family",15.392999999999999,2016-06-17,Finding Dory,7.0,7845,6.972485410610869
+17456,"Adventure, Animation, Comedy, Fantasy",15.232000000000001,2016-08-12,Sausage Party,5.6,4237,6.139119010373754
+17459,"Adventure, Comedy, Drama",14.883,2016-07-08,Captain Fantastic,8.0,3445,7.488224092796721
+17460,"Action, Adventure",14.797,2016-07-01,The Legend of Tarzan,5.8,4102,6.264883733888322
+17462,"Drama, History",14.751,2016-12-10,Hidden Figures,8.0,4710,7.572192513368985
+17463,"Action, Thriller",14.568,2016-07-29,Jason Bourne,6.1,3611,6.46327397943955
+17465,"Action, Comedy, Mystery",14.478,2016-06-17,Central Intelligence,6.3,3133,6.593755792935736
+17469,"Horror, Drama, Thriller",14.091,2016-06-24,The Shallows,6.3,3037,6.598427079356447
+17470,"Drama, Romance, Science Fiction",14.074000000000002,2016-12-21,Passengers,6.8,7869,6.827749036532787
+17471,"Action, Adventure, Science Fiction",14.050999999999998,2016-12-21,Assassin's Creed,5.4,5010,5.961998037212843
+17473,"Crime, Thriller, Drama",13.81,2016-10-14,The Accountant,6.9,3407,6.900250394580127
+17474,"Comedy, Crime, Mystery",13.743,2016-05-20,The Nice Guys,7.1,4272,7.017712359471242
+17485,"Adventure, Science Fiction",12.967,2016-01-15,The 5th Wave,5.8,3657,6.295959783397156
+17486,"Drama, Romance",12.857000000000001,2016-12-16,Collateral Beauty,7.2,3270,7.05671519586521
+17501,"Crime, Horror, Thriller",12.140999999999998,2016-08-26,Don't Breathe,6.9,3662,6.900240810278425
+17581,"Adventure, Comedy, Animation, Family",9.908999999999999,2016-07-08,The Secret Life of Pets,6.1,5374,6.386792963706098
+18663,"Action, Crime, Thriller",1.784,2016-06-22,The Fast and the Furious,6.8,5427,6.835790231170627
+20617,"Science Fiction, Action, Thriller",48.571000000000005,2017-10-06,Blade Runner 2049,7.4,6679,7.24519106086113
+20618,"Action, Adventure, Science Fiction, Drama",46.775,2017-07-07,Spider-Man: Homecoming,7.4,11585,7.297264605970166
+20619,"Thriller, Action, Crime",45.253,2017-02-10,John Wick: Chapter 2,7.0,5863,6.966332424469691
+20621,"Action, Adventure, Comedy, Fantasy",43.45,2017-11-03,Thor: Ragnarok,7.5,11380,7.374937710575442
+20622,"Action, Adventure, Comedy, Science Fiction",40.228,2017-05-05,Guardians of the Galaxy Vol. 2,7.7,12535,7.545613407021234
+20623,"Action, Adventure, Fantasy, Science Fiction",34.953,2017-11-17,Justice League,6.2,7510,6.399962348056601
+20624,"Fantasy, Adventure, Science Fiction, Action",34.293,2017-12-15,Star Wars: The Last Jedi,7.0,8534,6.974129033992966
+20629,"Action, Adventure, Fantasy",29.388,2017-03-10,Kong: Skull Island,6.3,6054,6.498984347037206
+20630,"Action, Crime, Thriller",28.668000000000003,2017-04-14,The Fate of the Furious,6.9,6335,6.900171856247978
+20634,"Adventure, Action, Fantasy, Comedy",28.101,2017-05-26,Pirates of the Caribbean: Dead Men Tell No Tales,6.6,6931,6.690786857121626
+20635,"Animation, Family, Comedy, Adventure, Fantasy",25.961,2017-11-22,Coco,8.2,8669,7.865918611541252
+20638,"Horror, Science Fiction, Thriller",24.651,2017-05-19,Alien: Covenant,5.9,4971,6.276565585005002
+20640,"War, Action, Drama",24.358,2017-07-19,Dunkirk,7.4,9156,7.276736120275986
+20641,"Action, Adventure, Comedy",24.337,2017-09-22,Kingsman: The Golden Circle,7.0,5531,6.965022187091181
+20642,"Action, Science Fiction, Thriller, Adventure",24.258000000000003,2017-06-21,Transformers: The Last Knight,6.0,3255,6.431911155567525
+20644,"Adventure, Science Fiction, Action",24.003,2017-07-21,Valerian and the City of a Thousand Planets,6.6,4149,6.726116139050897
+20645,"Drama, Science Fiction, War",23.445,2017-07-14,War for the Planet of the Apes,7.0,5235,6.963764939656936
+20646,"Action, Crime",22.895,2017-06-28,Baby Driver,7.4,8034,7.264201946535696
+20648,"Drama, Fantasy, Romance",22.025,2017-12-01,The Shape of Water,7.2,7224,7.112128743943161
+20649,Drama,22.009,2017-12-20,The Greatest Showman,8.0,5197,7.597609403205425
+20650,"Action, Drama, Fantasy",21.793000000000003,2017-05-12,King Arthur: Legend of the Sword,6.5,3305,6.690579584151447
+20652,"Action, Mystery, Thriller",21.662,2017-07-28,Atomic Blonde,6.3,3645,6.571121787520672
+20654,"Action, Comedy",21.46,2017-08-18,The Hitman's Bodyguard,6.7,3017,6.7999840914201215
+20656,"Action, Science Fiction, Thriller, Drama",21.308000000000003,2017-03-31,Ghost in the Shell,6.0,5128,6.332382416101731
+20657,"Horror, Mystery, Thriller",21.245,2017-08-11,Annabelle: Creation,6.5,3141,6.695669154547284
+20658,"Horror, Mystery, Thriller",21.23,2017-10-13,Happy Death Day,6.6,3211,6.745162498482509
+20660,"Romance, Drama",20.504,2017-11-24,Call Me by Your Name,8.3,4957,7.772364493914147
+20661,"Action, Adventure, Comedy, Fantasy",20.395,2017-12-20,Jumanji: Welcome to the Jungle,6.7,7213,6.758905735638389
+20662,"Drama, Family",20.101,2017-11-17,Wonder,8.2,3959,7.639805184376328
+20668,"Fantasy, Thriller, Action, Adventure, Horror",18.53,2017-06-09,The Mummy,5.5,4391,6.068475751329301
+20673,"Crime, Drama",17.808,2017-11-10,"Three Billboards Outside Ebbing, Missouri",8.2,5432,7.737666541517417
+20686,"Action, Animation, Comedy, Family, Adventure",16.407,2017-06-30,Despicable Me 3,6.3,4106,6.553532828324637
+20690,"Comedy, Drama",15.974,2017-11-03,Lady Bird,7.3,3866,7.125459405487164
+20693,"Crime, Drama, Mystery",15.937000000000001,2017-11-10,Murder on the Orient Express,6.7,5406,6.771568436601816
+20694,"Science Fiction, Thriller, Drama",15.933,2017-08-18,What Happened to Monday,7.2,3507,7.061933960054537
+20698,"Action, Crime, Fantasy",15.677,2017-12-22,Bright,6.2,3181,6.540010399300254
+20707,"Drama, Horror, Mystery",15.227,2017-09-15,mother!,7.0,3458,6.953794406639032
+20722,"Action, Comedy",14.429,2017-05-26,Baywatch,6.1,4748,6.409964413793865
+20729,"Horror, Thriller",13.966,2017-09-08,It,7.2,10931,7.1355110385525
+20770,"Drama, Romance",12.083,2017-02-10,Fifty Shades Darker,6.1,4489,6.420684240629573
+21082,"Animation, Comedy, Family",7.445,2017-03-31,The Boss Baby,6.4,4314,6.605305479638348
+23811,"Adventure, Action, Fantasy",80.773,2018-04-27,Avengers: Infinity War,8.3,13948,8.052277807297314
+23812,"Action, Adventure, Animation, Science Fiction, Comedy",60.534,2018-12-14,Spider-Man: Into the Spider-Verse,8.4,4048,7.761748620612213
+23814,Adventure,48.508,2018-11-16,Fantastic Beasts: The Crimes of Grindelwald,6.9,4870,6.90020384727762
+23816,"Action, Adventure, Science Fiction, Comedy",44.729,2018-07-06,Ant-Man and the Wasp,7.0,6290,6.967879900761558
+23823,"Action, Comedy, Adventure",38.894,2018-05-10,Deadpool 2,7.5,8773,7.347244056576478
+23824,"Action, Adventure, Fantasy",38.102,2018-12-21,Aquaman,6.8,6155,6.8329442138803795
+23825,"Drama, Music",37.196999999999996,2018-11-02,Bohemian Rhapsody,8.1,7629,7.761454913733641
+23826,"Action, Adventure, Animation, Family",36.286,2018-06-15,Incredibles 2,7.6,6354,7.375668620705032
+23827,"Drama, Comedy",36.284,2018-11-16,Green Book,8.3,3499,7.653993580254635
+23828,"Drama, Romance, Music",35.848,2018-10-05,A Star Is Born,7.5,5676,7.292716030206877
+23829,"Action, Adventure, Science Fiction",34.958,2018-06-22,Jurassic World: Fallen Kingdom,6.5,5995,6.633585800786533
+23835,"Comedy, Romance",31.613000000000003,2018-08-16,To All the Boys I've Loved Before,7.9,4481,7.4991985400447625
+23840,"Adventure, Science Fiction",30.029,2018-03-29,Ready Player One,7.6,7021,7.390600167455829
+23844,Action,29.69,2018-07-27,Mission: Impossible - Fallout,7.3,3811,7.1240499600755935
+23845,"Action, Adventure, Science Fiction",29.502,2018-05-25,Solo: A Star Wars Story,6.6,3838,6.731852044175909
+23847,"Drama, Horror, Thriller, Science Fiction",29.154,2018-04-06,A Quiet Place,7.3,5848,7.164557445532873
+23857,"Thriller, Drama",26.156,2018-11-12,Bird Box,7.0,4777,6.961630998852368
+23858,"Crime, Comedy, Action, Thriller",26.009,2018-06-08,Ocean's Eight,6.9,3709,6.900239123278412
+23861,"Drama, History, War",25.334,1993-12-15,Schindler's List,8.5,8065,8.066344715596463
+23863,Science Fiction,25.197,2018-02-23,Annihilation,6.3,4465,6.54134015781311
+23864,"Crime, Drama",25.101,2018-07-30,BlacKkKlansman,7.6,3138,7.25813038091803
+23866,"Action, Adventure, Fantasy",24.968000000000004,2018-03-16,Tomb Raider,6.3,4310,6.546457493580693
+23869,"Action, Adventure, Science Fiction, Fantasy",24.238000000000003,2018-04-13,Rampage,6.2,3176,6.540285666786735
+23872,"Science Fiction, Mystery, Adventure",23.781,1968-04-10,2001: A Space Odyssey,8.0,5837,7.626751644005305
+23875,"Action, Science Fiction",23.166,2018-01-26,Maze Runner: The Death Cure,7.0,3894,6.956716605464878
+23882,"Drama, Romance",22.511999999999997,2018-02-09,Fifty Shades Freed,6.1,3535,6.467498741863025
+23916,"Mystery, Thriller",18.117,2018-03-02,Red Sparrow,6.5,3406,6.687574817058206
+23970,"Comedy, Drama, Romance",15.607999999999999,2018-03-16,"Love, Simon",8.2,3165,7.567656817205981
