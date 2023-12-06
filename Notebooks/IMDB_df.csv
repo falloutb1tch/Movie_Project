@@ -1,0 +1,763 @@
+Movie ID,Primary Title,Movie Length,Genres,Average Rating,Num of Votes,Primary Name,Position,Weighted Rating
+tt5813916,The Mountain II,135.0,"Action,Drama,War",9.3,100568,Murat Arkin,actor,9.127445161842545
+tt2592910,CM101MMXI Fundamentals,139.0,"Comedy,Documentary",9.2,41560,Can Yilmaz,producer,8.835188417244192
+tt1375666,Inception,148.0,"Action,Adventure,Sci-Fi",8.8,1841066,Leonardo DiCaprio,actor,8.791940965997428
+tt0816692,Interstellar,169.0,"Adventure,Drama,Sci-Fi",8.6,1299334,Matthew McConaughey,actor,8.589748004528502
+tt5354160,Aynabaji,147.0,"Crime,Mystery,Thriller",9.3,18470,Amitabh Reza Chowdhury,director,8.581953937235271
+tt2170667,Wheels,115.0,Drama,9.3,17308,Kevin McCorkle,actor,8.548320854159948
+tt1675434,The Intouchables,112.0,"Biography,Comedy,Drama",8.5,677343,François Cluzet,actor,8.481532035444621
+tt4154756,Avengers: Infinity War,149.0,"Action,Adventure,Sci-Fi",8.5,670926,Robert Downey Jr.,actor,8.48135735327066
+tt2582802,Whiplash,106.0,"Drama,Music",8.5,616916,Paul Reiser,actor,8.479744823563138
+tt4633694,Spider-Man: Into the Spider-Verse,117.0,"Action,Adventure,Animation",8.5,210869,Avi Arad,producer,8.442081264968929
+tt5074352,Dangal,161.0,"Action,Biography,Drama",8.5,123638,Aamir Khan,actor,8.40355460469124
+tt1345836,The Dark Knight Rises,164.0,"Action,Thriller",8.4,1387769,Gary Oldman,actor,8.391472858459553
+tt1853728,Django Unchained,165.0,"Drama,Western",8.4,1211405,Leonardo DiCaprio,actor,8.390239061903923
+tt1424432,Senna,106.0,"Biography,Documentary,Sport",8.6,55318,Tim Bevan,producer,8.386722655130695
+tt2380307,Coco,105.0,"Adventure,Animation,Comedy",8.4,277194,Benjamin Bratt,actor,8.358208967347398
+tt3417422,Drishyam,160.0,"Crime,Drama,Thriller",8.8,24326,Mohanlal,actor,8.33190296455728
+tt5311514,Your Name.,106.0,"Animation,Drama,Fantasy",8.4,134084,Clark Cheng,writer,8.315967508687422
+tt6316138,Ayla: The Daughter of War,125.0,"Drama,History,War",8.7,26743,Mustafa Presheva,editor,8.286845304149752
+tt0435761,Toy Story 3,103.0,"Adventure,Animation,Comedy",8.3,682218,Tom Hanks,actor,8.283837370853016
+tt7738784,Peranbu,147.0,Drama,9.4,9629,Mammootty,actor,8.267554658765837
+tt2106476,The Hunt,115.0,Drama,8.3,242765,Nikolaj Egelund,composer,8.255456591013527
+tt8108198,Andhadhun,139.0,"Crime,Thriller",8.5,43409,Tabu,actress,8.251563451452592
+tt6966692,Green Book,130.0,"Biography,Comedy,Drama",8.3,204972,Viggo Mortensen,actor,8.247533527947212
+tt1832382,A Separation,123.0,"Drama,Thriller",8.3,197684,Leila Hatami,actress,8.245669953553884
+tt8291224,Uri: The Surgical Strike,138.0,"Action,Drama,War",8.6,30292,Paresh Rawal,actor,8.245489620819221
+tt1255953,Incendies,131.0,"Drama,Mystery,War",8.3,124156,Lubna Azabal,actress,8.215327396776448
+tt0993846,The Wolf of Wall Street,180.0,"Biography,Crime,Drama",8.2,1035358,Leonardo DiCaprio,actor,8.190029652886585
+tt1291584,Warrior,140.0,"Drama,Sport",8.2,403755,Nick Nolte,actor,8.174717252677778
+tt5027774,"Three Billboards Outside Ebbing, Missouri",115.0,"Crime,Drama",8.2,344047,Woody Harrelson,actor,8.170423140433568
+tt3170832,Room,118.0,"Drama,Thriller",8.2,316791,Sean Bridgers,actor,8.167937265449858
+tt0770802,Samsara,102.0,"Documentary,Music",8.5,29725,Ron Fricke,director,8.160237575554063
+tt6148156,Vikram Vedha,147.0,"Action,Crime,Thriller",8.7,18704,Madhavan,actor,8.16009554838956
+tt4849438,Baahubali 2: The Conclusion,167.0,"Action,Drama",8.3,65656,S.S. Rajamouli,director,8.14761801834436
+tt1645089,Inside Job,109.0,"Crime,Documentary",8.3,65304,Matt Damon,self,8.146881266826
+tt2338151,PK,153.0,"Comedy,Drama,Fantasy",8.2,138012,Sanjay Dutt,actor,8.128544338267634
+tt4430212,Drishyam,163.0,"Crime,Drama,Mystery",8.3,54991,Tabu,actress,8.121611812100944
+tt0848228,The Avengers,143.0,"Action,Adventure,Sci-Fi",8.1,1183655,Robert Downey Jr.,actor,8.091900587035273
+tt1130884,Shutter Island,138.0,"Mystery,Thriller",8.1,1005960,Leonardo DiCaprio,actor,8.090480476535827
+tt2015381,Guardians of the Galaxy,121.0,"Action,Adventure,Comedy",8.1,948394,Vin Diesel,actor,8.089907190284697
+tt1392190,Mad Max: Fury Road,120.0,"Action,Adventure,Sci-Fi",8.1,780910,Charlize Theron,actress,8.087763148298475
+tt2267998,Gone Girl,149.0,"Drama,Mystery,Thriller",8.1,761592,Ben Affleck,actor,8.087455783898415
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,130.0,"Adventure,Drama,Fantasy",8.1,691835,Michael Gambon,actor,8.086204528230391
+tt2024544,12 Years a Slave,134.0,"Biography,Drama,History",8.1,577301,Brad Pitt,actor,8.083502668001593
+tt3315342,Logan,137.0,"Action,Drama,Sci-Fi",8.1,560270,Patrick Stewart,actor,8.083007809060007
+tt1392214,Prisoners,153.0,"Crime,Drama,Mystery",8.1,526273,Kira Davis,producer,8.08192554466037
+tt1979320,Rush,123.0,"Action,Biography,Drama",8.1,393437,Ron Howard,director,8.075937226422106
+tt1454029,The Help,146.0,Drama,8.1,392699,Chris Columbus,producer,8.075892852680791
+tt2119532,Hacksaw Ridge,139.0,"Biography,Drama,History",8.1,366904,Mel Gibson,director,8.074231962665996
+tt1895587,Spotlight,129.0,"Crime,Drama",8.1,365110,Michael Keaton,actor,8.074107897667803
+tt2375559,1 - Nenokkadine,170.0,"Action,Mystery,Thriller",8.3,41124,Nassar,actor,8.070737573009215
+tt2199711,Vishwaroopam,148.0,"Action,Thriller",8.3,37803,Miles Anderson,actor,8.053931169017506
+tt3741834,Lion,118.0,"Biography,Drama",8.1,181601,Nicole Kidman,actress,8.048981463609394
+tt8267604,Capernaum,126.0,Drama,8.5,20215,Kawsar Al Haddad,actress,8.04365303084972
+tt3011894,Wild Tales,122.0,"Comedy,Drama,Thriller",8.1,151123,Pedro Almodóvar,producer,8.039178705168858
+tt3322420,Queen,146.0,"Comedy,Drama",8.2,55162,Anurag Kashyap,producer,8.034067596789123
+tt7392212,The Stage,170.0,"Action,Drama",8.6,15407,Jagapathi Babu,actor,8.015128290478893
+tt2631186,Baahubali: The Beginning,159.0,"Action,Drama",8.1,93243,Ramya Krishnan,actress,8.004234971660562
+tt2283748,OMG: Oh My God!,125.0,"Comedy,Drama,Fantasy",8.2,44377,Mithun Chakraborty,actor,7.999570980395935
+tt4857264,Contratiempo,106.0,"Crime,Mystery,Thriller",8.1,84318,Jose Coronado,actor,7.994926308022392
+tt7019842,96,158.0,"Drama,Romance",8.8,10903,Adithya Bhaskar,actor,7.990476756507093
+tt1431045,Deadpool,108.0,"Action,Adventure,Comedy",8.0,820847,Ryan Reynolds,actor,7.989258539899342
+tt4016934,The Handmaiden,145.0,"Drama,Romance,Thriller",8.1,79272,Chung-hoon Chung,cinematographer,7.98881602072097
+tt2488496,Star Wars: Episode VII - The Force Awakens,136.0,"Action,Adventure,Fantasy",8.0,784780,George Lucas,writer,7.988769555901954
+tt3659388,The Martian,144.0,"Adventure,Drama,Sci-Fi",8.0,680116,Matt Damon,actor,7.9870601378531045
+tt0947798,Black Swan,108.0,"Drama,Thriller",8.0,648854,Natalie Portman,actress,7.986443814999223
+tt1663202,The Revenant,156.0,"Action,Adventure,Biography",8.0,621193,Leonardo DiCaprio,actor,7.985847375030421
+tt2084970,The Imitation Game,114.0,"Biography,Drama,Thriller",8.0,620834,Matthew Goode,actor,7.985839288897306
+tt1877832,X-Men: Days of Future Past,132.0,"Action,Adventure,Sci-Fi",8.0,620079,Bryan Singer,director,7.985822253054994
+tt1504320,The King's Speech,118.0,"Biography,Drama,History",8.0,593629,Colin Firth,actor,7.985198424547809
+tt1798709,Her,126.0,"Drama,Romance,Sci-Fi",8.0,467232,Joaquin Phoenix,actor,7.981257517399291
+tt3783958,La La Land,128.0,"Comedy,Drama,Music",8.0,436070,Ryan Gosling,actor,7.979940806975224
+tt1659337,The Perks of Being a Wallflower,103.0,Drama,8.0,422671,John Malkovich,producer,7.9793160016598055
+tt0790636,Dallas Buyers Club,117.0,"Biography,Drama",8.0,402462,Matthew McConaughey,actor,7.978296387835946
+tt2948356,Zootopia,108.0,"Adventure,Animation,Comedy",8.0,383446,Jason Bateman,actor,7.977240702680165
+tt1856101,Blade Runner 2049,164.0,"Drama,Mystery,Sci-Fi",8.0,376241,Harrison Ford,actor,7.976813381291027
+tt1639426,Udaan,134.0,Drama,8.2,38827,Vikramaditya Motwane,director,7.975559473956871
+tt1727824,Bohemian Rhapsody,134.0,"Biography,Drama,Music",8.0,345466,Bryan Singer,director,7.9747917469387986
+tt2082197,Barfi!,151.0,"Comedy,Drama,Romance",8.1,68941,Ronnie Screwvala,producer,7.973789507594092
+tt7060344,Ratsasan,170.0,"Action,Crime,Thriller",8.8,10518,Nizhalgal Ravi,actor,7.973179251304252
+tt1562872,Zindagi Na Milegi Dobara,155.0,"Comedy,Drama",8.1,58912,Hrithik Roshan,actor,7.95473022571222
+tt7838252,K.G.F: Chapter 1,156.0,"Action,Drama",8.3,23771,Archana Jois,actress,7.943514558216879
+tt7775622,Free Solo,100.0,"Documentary,Sport",8.2,32250,Marco Beltrami,composer,7.938423742138365
+tt5571734,Pink,136.0,"Drama,Thriller",8.2,32238,Amitabh Bachchan,actor,7.938344751874779
+tt1821480,Kahaani,122.0,"Mystery,Thriller",8.1,51830,Sujoy Ghosh,director,7.937389916568346
+tt2375605,The Act of Killing,117.0,"Crime,Documentary",8.2,31115,Joram ten Brink,producer,7.930735303638483
+tt4387040,Airlift,130.0,"Drama,History",8.1,48323,Akshay Kumar,actor,7.92717417104061
+tt4044364,Citizenfour,114.0,"Biography,Documentary,Thriller",8.1,47994,Mathilde Bonnefoy,producer,7.926149561213824
+tt2543472,Wonder,113.0,"Drama,Family",8.0,111632,Julia Roberts,actress,7.925312625910755
+tt2265171,The Raid 2,150.0,"Action,Crime,Thriller",8.0,104517,Nate Bolotin,producer,7.920568697162039
+tt3674140,The Salt of the Earth,110.0,"Biography,Documentary,History",8.4,17262,Wim Wenders,self,7.919519576367015
+tt3390572,Haider,160.0,"Action,Crime,Drama",8.1,45863,William Shakespeare,writer,7.919207011412402
+tt1620933,Paan Singh Tomar,135.0,"Action,Biography,Crime",8.2,29373,Tigmanshu Dhulia,director,7.918014366880914
+tt1188996,My Name Is Khan,165.0,Drama,8.0,90988,Kajol,actress,7.909657458269027
+tt3612616,Mommy,139.0,Drama,8.1,43020,Suzanne Clément,actress,7.909032932501979
+tt4987556,Thani Oruvan,160.0,"Action,Crime,Thriller",8.5,13747,Nassar,actor,7.904732138654869
+tt6146586,John Wick: Chapter 3 - Parabellum,131.0,"Action,Crime,Thriller",8.0,81568,Keanu Reeves,actor,7.900102660326942
+tt1555149,Elite Squad: The Enemy Within,115.0,"Action,Crime,Drama",8.0,75071,Lula Carvalho,cinematographer,7.892242358091824
+tt3544112,Sing Street,106.0,"Comedy,Drama,Music",8.0,74651,Anthony Bregman,producer,7.891691443196066
+tt0903624,The Hobbit: An Unexpected Journey,169.0,"Adventure,Family,Fantasy",7.9,719629,Peter Jackson,director,7.888794758220343
+tt1631867,Edge of Tomorrow,113.0,"Action,Sci-Fi",7.9,546284,Tom Cruise,actor,7.885287302901493
+tt0454876,Life of Pi,127.0,"Adventure,Drama,Fantasy",7.9,535836,Ang Lee,director,7.885004387248407
+tt2543164,Arrival,116.0,"Drama,Mystery,Sci-Fi",7.9,515483,Forest Whitaker,actor,7.884420800962938
+tt4934950,Talvar,132.0,"Crime,Drama,Mystery",8.2,25443,Vishal Bhardwaj,writer,7.884374335974258
+tt3501632,Thor: Ragnarok,130.0,"Action,Adventure,Comedy",7.9,482995,Cate Blanchett,actress,7.88338891069226
+tt5013056,Dunkirk,106.0,"Action,Drama,History",7.9,466580,Hans Zimmer,composer,7.8828137524257516
+tt2872718,Nightcrawler,117.0,"Crime,Drama,Thriller",7.9,404476,Bill Paxton,actor,7.880222983256306
+tt5323662,A Silent Voice,130.0,"Animation,Drama,Romance",8.2,24863,Miyu Irino,actor,7.878717787287951
+tt3863552,Bajrangi Bhaijaan,163.0,"Action,Comedy,Drama",8.0,63747,Kareena Kapoor,actress,7.875115355734276
+tt1065073,Boyhood,165.0,Drama,7.9,315584,Patricia Arquette,actress,7.874781616390784
+tt1655442,The Artist,100.0,"Comedy,Drama,Romance",7.9,217184,James Cromwell,actor,7.863737265448363
+tt5867800,Aruvi,130.0,Drama,8.8,8277,S.R. Prakashbabu,producer,7.855735802117007
+tt2395469,Gully Boy,153.0,"Drama,Music",8.3,17483,Zoya Akhtar,director,7.853790327422648
+tt2140203,Wolf Children,117.0,"Animation,Drama,Family",8.1,31619,Mamoru Hosoda,director,7.853376715918096
+tt1398426,Straight Outta Compton,147.0,"Biography,Drama,History",7.9,165307,Matt Alvarez,producer,7.852851121482347
+tt3553976,Captain Fantastic,118.0,"Comedy,Drama",7.9,159329,Viggo Mortensen,actor,7.851161631071337
+tt5726616,Call Me by Your Name,132.0,"Drama,Romance",7.9,153936,Amira Casar,actress,7.849530115649546
+tt3461252,The Blue Elephant,170.0,"Drama,Horror,Mystery",8.2,21776,Khaled El-Sawi,actor,7.844840270187183
+tt3848892,Baby,159.0,"Action,Thriller",8.0,48318,Danny Denzongpa,actor,7.840595215701029
+tt2209418,Before Midnight,109.0,"Drama,Romance",7.9,123107,Ethan Hawke,actor,7.837617001768665
+tt1821700,Waar,130.0,"Action,Crime,Thriller",8.1,28950,Shaan Shahid,actor,7.835318072702332
+tt2377938,Special 26,144.0,"Crime,Drama,Thriller",8.0,45299,Manoj Bajpayee,actor,7.831480591488475
+tt5104604,Isle of Dogs,101.0,"Adventure,Animation,Comedy",7.9,108245,Bob Balaban,actor,7.829606840468271
+tt4432480,RangiTaranga,149.0,"Mystery,Thriller",8.5,11203,Sai Kumar,actor,7.8237632331711495
+tt5895028,13th,100.0,"Crime,Documentary,History",8.2,19507,Howard Barish,producer,7.815001434813196
+tt4698684,Hunt for the Wilderpeople,101.0,"Adventure,Comedy,Drama",7.9,87532,Sam Neill,actor,7.814264076837277
+tt1602620,Amour,127.0,"Drama,Romance",7.9,84960,Isabelle Huppert,actress,7.811879123404716
+tt1843866,Captain America: The Winter Soldier,136.0,"Action,Adventure,Sci-Fi",7.8,666252,Samuel L. Jackson,actor,7.7890202088453915
+tt1074638,Skyfall,143.0,"Action,Adventure,Thriller",7.8,592221,Javier Bardem,actor,7.787664837065902
+tt3498820,Captain America: Civil War,147.0,"Action,Adventure,Sci-Fi",7.8,583507,Robert Downey Jr.,actor,7.787482963399756
+tt1170358,The Hobbit: The Desolation of Smaug,161.0,"Adventure,Fantasy",7.8,565563,Peter Jackson,director,7.787091024459789
+tt0780504,Drive,100.0,"Crime,Drama",7.8,521495,Albert Brooks,actor,7.786015640506999
+tt3748528,Rogue One: A Star Wars Story,133.0,"Action,Adventure,Sci-Fi",7.8,478592,George Lucas,writer,7.784781365975988
+tt8239946,Tumbbad,104.0,"Drama,Fantasy,Horror",8.3,14128,Narayan Dharap,writer,7.784572949417423
+tt3460252,The Hateful Eight,168.0,"Crime,Drama,Mystery",7.8,434966,Samuel L. Jackson,actor,7.783280848132964
+tt5463162,Deadpool 2,119.0,"Action,Adventure,Comedy",7.8,391735,Josh Brolin,actor,7.781470421556226
+tt1568346,The Girl with the Dragon Tattoo,158.0,"Crime,Drama,Mystery",7.8,387580,David Fincher,director,7.781275548623063
+tt1535109,Captain Phillips,134.0,"Biography,Drama,Thriller",7.8,387402,Tom Hanks,actor,7.781267108675063
+tt2245084,Big Hero 6,102.0,"Action,Adventure,Animation",7.8,371204,Scott Adsit,actor,7.78046586186045
+tt0398286,Tangled,100.0,"Adventure,Animation,Comedy",7.8,366366,Ron Perlman,actor,7.780213081023682
+tt0964517,The Fighter,116.0,"Biography,Drama,Sport",7.8,316539,Mark Wahlberg,actor,7.7771704756217614
+tt1596363,The Big Short,130.0,"Biography,Comedy,Drama",7.8,309227,Brad Pitt,actor,7.776643430304331
+tt1490017,The Lego Movie,100.0,"Action,Adventure,Animation",7.8,304179,Will Ferrell,actor,7.776265143785754
+tt4679210,Premam,156.0,"Comedy,Drama,Romance",8.3,13705,Anwar Rasheed,producer,7.774291145956143
+tt1646971,How to Train Your Dragon 2,102.0,"Action,Adventure,Animation",7.8,278205,Cate Blanchett,actress,7.774107361614252
+tt2194499,About Time,123.0,"Comedy,Drama,Fantasy",7.8,263136,Nicky Kentish Barnes,producer,7.772665660702936
+tt1517451,A Star Is Born,136.0,"Drama,Music,Romance",7.8,249245,Sam Elliott,actor,7.771186756314631
+tt8075192,Shoplifters,121.0,"Crime,Drama",8.0,31228,Haruomi Hosono,composer,7.770252627298079
+tt4912910,Mission: Impossible - Fallout,147.0,"Action,Adventure,Thriller",7.8,233877,Tom Cruise,actor,7.769352273621762
+tt4034228,Manchester by the Sea,137.0,Drama,7.8,214557,Matt Damon,producer,7.766685777750758
+tt4846340,Hidden Figures,127.0,"Biography,Drama,History",7.8,171131,Kevin Costner,actor,7.758586940396683
+tt2576852,The Tale of The Princess Kaguya,137.0,"Adventure,Animation,Drama",8.0,29108,James Caan,actor,7.7569477641499125
+tt2181831,Shahid,129.0,"Biography,Crime,Drama",8.3,12984,Sunil Bohra,producer,7.755787138742434
+tt3668162,Bangalore Days,171.0,"Comedy,Drama,Romance",8.3,12922,Fahadh Faasil,actor,7.754134940260504
+tt4468740,Paddington 2,103.0,"Adventure,Comedy,Family",7.9,46481,Hugh Grant,actor,7.749064369870881
+tt2278871,Blue Is the Warmest Color,180.0,"Drama,Romance",7.8,124409,Abdellatif Kechiche,director,7.743918487366289
+tt5168192,"I, Daniel Blake",100.0,Drama,7.9,44200,George Fenton,composer,7.742405101547389
+tt2358592,Lucia,135.0,"Drama,Romance,Sci-Fi",8.4,10522,Sabreen Baker,actress,7.739825976584175
+tt2582496,Me and Earl and the Dying Girl,105.0,"Comedy,Drama,Romance",7.8,112627,Alfonso Gomez-Rejon,director,7.738418038825577
+tt6155172,Roma,135.0,Drama,7.8,106768,Eugenio Caballero,production_designer,7.735260473185843
+tt4302938,Kubo and the Two Strings,101.0,"Action,Adventure,Animation",7.8,105578,Ralph Fiennes,actor,7.734579173225561
+tt4635372,Masaan,109.0,Drama,8.1,18705,Anurag Kashyap,producer,7.731839105132607
+tt7725596,Badhaai Ho,124.0,"Comedy,Drama",8.1,18636,Neena Gupta,actress,7.73086714684726
+tt6452574,Sanju,155.0,"Biography,Drama",7.9,40473,A.R. Rahman,composer,7.7301616273737315
+tt1924396,The Best Offer,131.0,"Crime,Drama,Mystery",7.8,96073,Donald Sutherland,actor,7.728575437131299
+tt1588170,I Saw the Devil,142.0,"Action,Crime,Drama",7.8,94029,Min-sik Choi,actor,7.7271375050478195
+tt6380520,Dhuruvangal Pathinaaru,105.0,"Action,Crime,Mystery",8.5,8560,Rahman,actor,7.712474704234122
+tt2358891,The Great Beauty,141.0,Drama,7.8,72297,Luca Bigazzi,cinematographer,7.7072940555409355
+tt1827487,Once Upon a Time in Anatolia,157.0,"Crime,Drama",7.9,34691,Taner Birsel,actor,7.706886391647508
+tt5312232,Sairat,174.0,"Drama,Romance",8.4,9656,Nitin Keni,producer,7.706501734087199
+tt2882328,Ugly,128.0,"Crime,Drama,Mystery",8.1,16773,Vikramaditya Motwane,producer,7.702535481811065
+tt6485666,Mersal,172.0,"Action,Thriller",8.0,21988,S.J. Surya,actor,7.698261792932718
+tt1365050,Beasts of No Nation,137.0,"Drama,War",7.8,63797,Idris Elba,producer,7.696241689692413
+tt2013293,The Wind Rises,126.0,"Animation,Biography,Drama",7.8,60943,Hideaki Anno,actor,7.691915078970823
+tt1045658,Silver Linings Playbook,122.0,"Comedy,Drama,Romance",7.7,621018,Robert De Niro,actor,7.689423284217795
+tt1270798,X-Men: First Class,131.0,"Action,Adventure,Sci-Fi",7.7,608930,Kevin Bacon,actor,7.689215878120793
+tt1285016,The Social Network,120.0,"Biography,Drama",7.7,568578,David Fincher,director,7.6884604927631335
+tt2802144,Kingsman: The Secret Service,129.0,"Action,Adventure,Comedy",7.7,544510,Colin Firth,actor,7.687957362638358
+tt1024648,Argo,120.0,"Biography,Drama,Thriller",7.7,534683,George Clooney,producer,7.687739091321565
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),119.0,"Comedy,Drama",7.7,519417,Michael Keaton,actor,7.687383864536541
+tt3896198,Guardians of the Galaxy Vol. 2,136.0,"Action,Adventure,Comedy",7.7,482917,Vin Diesel,actor,7.686444890266854
+tt1408101,Star Trek Into Darkness,132.0,"Action,Adventure,Sci-Fi",7.7,445535,J.J. Abrams,director,7.685326395863454
+tt0926084,Harry Potter and the Deathly Hallows: Part 1,146.0,"Adventure,Fantasy,Mystery",7.7,425530,Alexandre Desplat,composer,7.684648508763828
+tt0470752,Ex Machina,108.0,"Drama,Mystery,Sci-Fi",7.7,424542,Geoff Barrow,composer,7.684613402747882
+tt2181931,English Vinglish,134.0,"Comedy,Drama,Family",7.9,30323,Sridevi,actress,7.684584611215398
+tt5052448,Get Out,104.0,"Horror,Mystery,Thriller",7.7,400474,Catherine Keener,actress,7.683705686514338
+tt1527788,The Man from Nowhere,119.0,"Action,Drama,Thriller",7.8,55247,Sang-beom Kim,editor,7.682103427255487
+tt2980516,The Theory of Everything,123.0,"Biography,Drama,Romance",7.7,361534,Tim Bevan,producer,7.681986331205255
+tt1772341,Wreck-It Ralph,101.0,"Adventure,Animation,Comedy",7.7,344496,John C. Reilly,actor,7.6811143983170265
+tt1634013,Montevideo: Taste of a Dream,140.0,"Adventure,Comedy,Drama",8.3,10502,Dragan Bjelogrlic,director,7.680754568936786
+tt2582846,The Fault in Our Stars,126.0,"Drama,Romance",7.7,315135,Laura Dern,actress,7.679395737443241
+tt1306980,50/50,100.0,"Comedy,Drama,Romance",7.7,300475,Michael Giacchino,composer,7.678414948453608
+tt6333060,Icarus,120.0,"Documentary,Sport,Thriller",7.9,28979,Dan Cogan,producer,7.676648037226898
+tt3521134,The Look of Silence,103.0,"Biography,Documentary,History",8.3,10162,Nils Pagh Andersen,editor,7.6688338664930376
+tt3606756,Incredibles 2,118.0,"Action,Adventure,Animation",7.7,203510,Holly Hunter,actress,7.668496013222122
+tt3169706,Pride,119.0,"Biography,Comedy,Drama",7.8,46571,Imelda Staunton,actress,7.663186250485473
+tt5362988,Wind River,107.0,"Crime,Drama,Mystery",7.7,169007,Peter Berg,producer,7.662337718900667
+tt3268458,The Internet's Own Boy: The Story of Aaron Swartz,105.0,"Biography,Crime,Documentary",8.1,14411,John Dragonetti,composer,7.659688911962029
+tt2870648,Amy,128.0,"Biography,Documentary,Music",7.8,43814,James Gay-Rees,producer,7.655835517597536
+tt2350496,The Lunchbox,104.0,"Drama,Romance",7.8,42618,Lillete Dubey,actress,7.65239522227543
+tt5186714,The Salesman,124.0,"Drama,Thriller",7.8,41497,Hossein Jafarian,cinematographer,7.649018179684471
+tt2404461,The Past,130.0,"Drama,Mystery",7.8,41191,Bérénice Bejo,actress,7.648069330060997
+tt2659414,Miracle in Cell No. 7,127.0,"Comedy,Drama",8.2,11282,Hwan-kyung Lee,director,7.6464031386433815
+tt1821549,Nebraska,115.0,"Adventure,Comedy,Drama",7.7,105304,Bruce Dern,actor,7.641068966969257
+tt7668870,Searching,102.0,"Drama,Mystery,Thriller",7.7,97991,Debra Messing,actress,7.6369836644832265
+tt2218988,Ustad Hotel,151.0,"Comedy,Drama,Family",8.3,9280,Thilakan,actor,7.635658149582838
+tt3576728,Bilal: A New Breed of Hero,105.0,"Action,Adventure,Animation",8.0,16854,Thomas Ian Nicholas,actor,7.634653188387945
+tt2024519,The Broken Circle Breakdown,111.0,"Drama,Music,Romance",7.8,36462,Veerle Baetens,actress,7.631726121423048
+tt6108090,Secret Superstar,150.0,"Drama,Music",8.0,16563,Aamir Khan,actor,7.630234956156755
+tt7961060,Dragon Ball Super: Broly,100.0,"Action,Adventure,Animation",8.0,16465,Toshio Furukawa,actor,7.628722877112455
+tt2317337,Vicky Donor,126.0,"Comedy,Romance",7.8,35465,Dolly Ahluwalia,actress,7.627821337134877
+tt3449292,Manjhi: The Mountain Man,120.0,"Adventure,Biography,Drama",8.0,16191,Ketan Mehta,director,7.624428844286861
+tt2187153,Thuppakki,165.0,"Action,Thriller",7.9,21369,Santosh Sivan,cinematographer,7.617771441684853
+tt7218518,Padman,140.0,"Comedy,Drama",8.0,15764,Twinkle Khanna,producer,7.617535408786107
+tt3801314,Kaththi,166.0,"Action,Drama",8.0,15620,A. Sreekar Prasad,editor,7.615153276384083
+tt1590089,Confessions,106.0,"Drama,Thriller",7.8,32144,Yoshino Kimura,actress,7.613397834476844
+tt3569782,Jigarthanda,171.0,"Action,Crime,Drama",8.3,8484,Nassar,actor,7.602574058433433
+tt3841424,Land of Mine,100.0,"Drama,History,War",7.8,28287,Malte Grunert,producer,7.59328649369883
+tt1891757,Bol,165.0,Drama,8.3,8212,Sajjad Ali,composer,7.590500493253565
+tt1250777,Kick-Ass,117.0,"Action,Comedy",7.6,497363,Nicolas Cage,actor,7.588318303678423
+tt1318514,Rise of the Planet of the Apes,105.0,"Action,Drama,Sci-Fi",7.6,473020,Pierre Boulle,writer,7.587726512424041
+tt2103281,Dawn of the Planet of the Apes,130.0,"Action,Adventure,Drama",7.6,390199,Gary Oldman,actor,7.5851705529810225
+tt2713180,Fury,134.0,"Action,Drama,War",7.6,381993,Brad Pitt,actor,7.584858120043236
+tt1754656,The Little Prince,108.0,"Adventure,Animation,Drama",7.7,50015,Jeff Bridges,actor,7.584418738589934
+tt3890160,Baby Driver,113.0,"Action,Crime,Drama",7.6,363977,Tim Bevan,producer,7.584123764728368
+tt3397884,Sicario,121.0,"Action,Crime,Drama",7.6,328548,Josh Brolin,actor,7.5824499587856495
+tt1210166,Moneyball,133.0,"Biography,Drama,Sport",7.6,326657,Brad Pitt,actor,7.582350642811612
+tt0840361,The Town,125.0,"Crime,Drama,Thriller",7.6,322524,Ben Affleck,actor,7.582129614058371
+tt1707386,Les Misérables,158.0,"Drama,History,Musical",7.6,285971,Russell Crowe,actor,7.579903785212166
+tt1403865,True Grit,110.0,"Adventure,Drama,Western",7.6,284034,Jeff Bridges,actor,7.579770262645179
+tt3682448,Bridge of Spies,142.0,"Drama,History,Thriller",7.6,263004,Tom Hanks,actor,7.578197526653949
+tt3076658,Creed,133.0,"Drama,Sport",7.6,224671,Sylvester Stallone,actor,7.57459779106779
+tt3521164,Moana,107.0,"Adventure,Animation,Comedy",7.6,224253,Ron Clements,director,7.5745519745159715
+tt3829920,Only the Brave,134.0,"Action,Biography,Drama",7.7,45482,Jennifer Connelly,actress,7.574529911101884
+tt4226388,Victoria,138.0,"Crime,Drama,Romance",7.7,44921,Sebastian Schipper,director,7.573187153049351
+tt1855199,End of Watch,109.0,"Action,Crime,Drama",7.6,211308,David Ayer,director,7.573046432260246
+tt4285496,Embrace of the Serpent,125.0,"Adventure,Drama",7.9,17377,Jan Bijvoet,actor,7.572482363227078
+tt1485796,The Greatest Showman,105.0,"Biography,Drama,Musical",7.6,199663,Jenny Bicks,writer,7.571531324367768
+tt3455224,Virunga,100.0,"Documentary,War",8.2,8983,Masahiro Hirakubo,editor,7.569189088758115
+tt1649419,The Impossible,114.0,"Drama,History,Thriller",7.6,177762,Ewan McGregor,actor,7.568165861050836
+tt2582782,Hell or High Water,102.0,"Action,Crime,Drama",7.6,176469,Jeff Bridges,actor,7.567942119324451
+tt1899353,The Raid: Redemption,101.0,"Action,Thriller",7.6,175968,Mike Shinoda,composer,7.567854578182571
+tt7832124,Müslüm,136.0,"Biography,Drama,Music",8.2,8782,Erkan Can,actor,7.561401778037096
+tt4080728,A Man Called Ove,116.0,"Comedy,Drama,Romance",7.7,39163,Göran Hallberg,cinematographer,7.557539029852346
+tt4434004,Udta Punjab,148.0,"Action,Crime,Drama",7.8,22991,Kareena Kapoor,actress,7.55738230133482
+tt1183919,Marley,144.0,"Biography,Documentary,Music",8.0,12503,Bob Marley,archive_footage,7.555183909913513
+tt1189073,The Skin I Live In,120.0,"Drama,Horror,Thriller",7.6,123434,Antonio Banderas,actor,7.554957029877649
+tt0816442,The Book Thief,131.0,"Drama,War",7.6,119023,Geoffrey Rush,actor,7.55338668661034
+tt5083738,The Favourite,119.0,"Biography,Drama,History",7.6,116011,Rachel Weisz,actress,7.552249951421331
+tt8130968,Badla,118.0,"Crime,Drama,Mystery",8.1,9988,Amitabh Bachchan,actor,7.548327067131747
+tt6499752,Upgrade,100.0,"Action,Sci-Fi,Thriller",7.6,104978,Jason Blum,producer,7.547566135155319
+tt5462602,The Big Sick,120.0,"Comedy,Drama,Romance",7.6,104008,Holly Hunter,actress,7.547110016770096
+tt1839596,Rockstar,159.0,"Drama,Music,Musical",7.7,34727,Shammi Kapoor,actor,7.54257332393966
+tt1386932,Ip Man 2,108.0,"Action,Drama,Sport",7.6,86626,Sammo Kam-Bo Hung,actor,7.53734296315577
+tt4481414,Gifted,101.0,Drama,7.6,82426,Tom Flynn,writer,7.534416561950938
+tt5164432,"Love, Simon",110.0,"Comedy,Drama,Romance",7.6,81575,Jennifer Garner,actress,7.533789994386752
+tt4981966,24,164.0,"Action,Sci-Fi,Thriller",7.9,14662,A.R. Rahman,composer,7.532359162079235
+tt5649144,The Florida Project,111.0,Drama,7.6,72193,Willem Dafoe,actor,7.525995303853538
+tt2258337,Eega,145.0,"Action,Comedy,Fantasy",7.8,19096,Crazy Mohan,writer,7.521850795232366
+tt4833824,Uppi 2,135.0,"Action,Mystery,Thriller",8.2,7705,Sayaji Shinde,actor,7.516168612298586
+tt7098658,Raazi,138.0,"Action,Drama,Thriller",7.8,18369,Hiroo Johar,producer,7.514033930573273
+tt2386490,How to Train Your Dragon: The Hidden World,104.0,"Action,Adventure,Animation",7.6,60769,F. Murray Abraham,actor,7.513611503757195
+tt2331143,"Like Father, Like Son",121.0,Drama,7.8,18135,Masaharu Fukuyama,actor,7.511423590793836
+tt6980546,Bharat Ane Nenu,173.0,"Action,Drama",7.9,13446,Ravi K. Chandran,cinematographer,7.511016124797098
+tt1436045,13 Assassins,141.0,"Action,Adventure,Drama",7.6,58142,Kaneo Ikegami,writer,7.5101542267146035
+tt5764096,Hindi Medium,132.0,"Comedy,Drama",7.8,17165,Irrfan Khan,actor,7.50007475167241
+tt2608224,The Butterfly's Dream,138.0,"Biography,Drama,History",7.8,17019,Necati Akpinar,producer,7.498288827032097
+tt3398268,When Marnie Was There,103.0,"Animation,Drama,Family",7.7,24586,Masashi Ando,writer,7.492817545035218
+tt1951264,The Hunger Games: Catching Fire,146.0,"Action,Adventure,Sci-Fi",7.5,575455,Philip Seymour Hoffman,actor,7.491169719360842
+tt2028530,Paradise Lost 3: Purgatory,121.0,"Crime,Documentary",8.1,8337,Joe Berlinger,director,7.49081541642988
+tt2066051,Rocketman,121.0,"Biography,Drama,Music",7.7,24266,Dexter Fletcher,director,7.490730458666499
+tt2294629,Frozen,102.0,"Adventure,Animation,Comedy",7.5,516998,Hans Christian Andersen,writer,7.490185555998307
+tt1211837,Doctor Strange,115.0,"Action,Adventure,Fantasy",7.5,514510,Scott Derrickson,director,7.490138778471677
+tt0451279,Wonder Woman,141.0,"Action,Adventure,Fantasy",7.5,487527,Robin Wright,actress,7.489601261648355
+tt1410063,The Flowers of War,146.0,"Drama,History,Romance",7.6,45784,Christian Bale,actor,7.489316563133398
+tt2070649,Silenced,125.0,Drama,8.1,8287,Kim Jee-Young,actress,7.488886029644645
+tt2250912,Spider-Man: Homecoming,133.0,"Action,Adventure,Sci-Fi",7.5,426302,Robert Downey Jr.,actor,7.488133627207804
+tt2140465,Tanu Weds Manu Returns,128.0,"Comedy,Drama,Romance",7.7,23823,Madhavan,actor,7.4877707674871505
+tt1457767,The Conjuring,112.0,"Horror,Mystery,Thriller",7.5,397233,Lili Taylor,actress,7.487281352768369
+tt1515091,Sherlock Holmes: A Game of Shadows,129.0,"Action,Adventure,Crime",7.5,394189,Jude Law,actor,7.487184970835646
+tt1937149,The Body,108.0,"Mystery,Thriller",7.6,44373,Jose Coronado,actor,7.486305857575232
+tt6304162,Loveless,127.0,Drama,7.7,23470,Sergey Melkumov,producer,7.485351751695189
+tt0446029,Scott Pilgrim vs. the World,112.0,"Action,Comedy,Fantasy",7.5,339338,Kieran Culkin,actor,7.485158326798102
+tt2980794,Highway,133.0,"Crime,Drama,Romance",7.7,23434,A.R. Rahman,composer,7.485101950927782
+tt2802154,Leviathan,140.0,"Crime,Drama",7.6,43214,Philip Glass,composer,7.4837075314508805
+tt1677720,Ready Player One,140.0,"Action,Adventure,Sci-Fi",7.5,301660,Steven Spielberg,director,7.483349539882262
+tt4425200,John Wick: Chapter 2,122.0,"Action,Crime,Thriller",7.5,290053,Keanu Reeves,actor,7.482700035791942
+tt0970179,Hugo,126.0,"Adventure,Drama,Family",7.5,284869,Johnny Depp,producer,7.482393289815268
+tt4196848,Mr. Church,104.0,"Comedy,Drama",7.7,22885,Eddie Murphy,actor,7.4812191459601785
+tt1091191,Lone Survivor,121.0,"Action,Biography,Drama",7.5,246641,Mark Wahlberg,actor,7.47974488079452
+tt1276419,A Royal Affair,137.0,"Biography,Drama,History",7.6,40993,Trine Dyrholm,actress,7.478381286989874
+tt2486682,The Square,108.0,"Documentary,Drama,History",8.1,7998,Jehane Noujaim,director,7.477490240676216
+tt3042408,Who Am I,102.0,"Crime,Drama,Mystery",7.6,40319,Antoine Monot Jr.,actor,7.476667093623873
+tt4550098,Nocturnal Animals,116.0,"Drama,Thriller",7.5,205240,Robert Salerno,producer,7.475803063598759
+tt3450958,War for the Planet of the Apes,140.0,"Action,Adventure,Drama",7.5,201943,Woody Harrelson,actor,7.475422161399521
+tt7349662,BlacKkKlansman,135.0,"Biography,Crime,Drama",7.5,149005,Spike Lee,director,7.467108678636466
+tt1340107,In a Better World,118.0,"Drama,Romance",7.6,36553,Susanne Bier,director,7.466123618141783
+tt2855648,Madras Cafe,130.0,"Action,Drama,Thriller",7.7,20876,John Abraham,actor,7.465729621863546
+tt5580036,"I, Tonya",120.0,"Biography,Comedy,Drama",7.5,141668,Allison Janney,actress,7.465490881087097
+tt2140373,Saving Mr. Banks,125.0,"Biography,Comedy,Drama",7.5,140678,Tom Hanks,actor,7.465260320357949
+tt7642818,Aile Arasinda,124.0,Comedy,7.8,14442,Necati Akpinar,producer,7.462854058426761
+tt2042568,Inside Llewyn Davis,104.0,"Drama,Music",7.5,123759,John Goodman,actor,7.4607824511081136
+tt1242460,We Need to Talk About Kevin,112.0,"Drama,Mystery,Thriller",7.5,123619,John C. Reilly,actor,7.460740577261877
+tt2381111,Brooklyn,117.0,"Drama,Romance",7.5,117021,Jim Broadbent,actor,7.458660336409119
+tt3316960,Still Alice,101.0,Drama,7.5,116832,Julianne Moore,actress,7.4585974950133505
+tt4900716,Kapoor & Sons,132.0,"Comedy,Drama,Romance",7.7,19923,Hiroo Johar,producer,7.457588292674033
+tt2382298,Life Itself,121.0,"Biography,Documentary",7.8,14069,Martin Scorsese,self,7.457023679818258
+tt5700672,Train to Busan,118.0,"Action,Horror,Thriller",7.5,109448,Su-an Kim,actress,7.455983375089784
+tt2926068,Manam,163.0,"Comedy,Drama,Fantasy",8.0,8838,Akkineni Nageshwara Rao,actor,7.45540113538989
+tt8108202,Stree,128.0,"Comedy,Horror",7.7,19639,Krishna D.K.,writer,7.455051540218874
+tt4209788,Molly's Game,140.0,"Biography,Crime,Drama",7.5,104786,Kevin Costner,actor,7.454155849794276
+tt1942884,Indie Game: The Movie,103.0,"Documentary,Drama",7.7,19538,Lisanne Pajot,director,7.454136539315038
+tt5946128,Dear Zindagi,151.0,"Drama,Romance",7.6,31809,Karan Johar,producer,7.449966769696506
+tt3560686,The Fool,116.0,"Crime,Drama,Thriller",8.0,8617,Boris Nevzorov,actor,7.447933470869268
+tt1316540,The Turin Horse,155.0,Drama,7.8,13459,Erika Bók,actress,7.447041545398158
+tt0437086,Alita: Battle Angel,122.0,"Action,Adventure,Sci-Fi",7.5,88207,James Cameron,writer,7.446214422665009
+tt1808223,Losers' Club,105.0,"Comedy,Drama,Romance",7.7,18660,Idil Firat,actress,7.445884699923548
+tt5776858,Phantom Thread,130.0,"Drama,Romance",7.5,86061,Daniel Day-Lewis,actor,7.44498074785434
+tt5286444,Neerja,122.0,"Biography,Drama,Thriller",7.7,18420,Shabana Azmi,actress,7.443531780478395
+tt1164999,Biutiful,148.0,"Drama,Romance",7.5,80382,Javier Bardem,actor,7.441425362986733
+tt0453562,42,128.0,"Biography,Drama,Sport",7.5,77703,Harrison Ford,actor,7.439583626750232
+tt1020072,Selma,128.0,"Biography,Drama,History",7.5,77633,Tim Roth,actor,7.439533949819694
+tt5635086,God's Own Country,104.0,"Drama,Romance",7.7,17934,Ian Hart,actor,7.438631113863334
+tt3614516,Ankhon Dekhi,107.0,"Comedy,Drama",8.0,8349,Rajat Kapoor,actor,7.438598255410437
+tt1926313,Pyaar Ka Punchnama,149.0,"Comedy,Drama,Romance",7.7,17788,Vikram Malhotra,producer,7.4371221033691866
+tt3416532,A Monster Calls,108.0,"Animation,Drama,Fantasy",7.5,70416,Sigourney Weaver,actress,7.433933258252477
+tt3698408,Coming Soon,134.0,Comedy,7.6,28001,Zafer Algöz,actor,7.433873517647389
+tt1433811,Disconnect,115.0,"Drama,Thriller",7.5,70051,Jason Bateman,actor,7.433622309834818
+tt3203606,Trumbo,124.0,"Biography,Drama",7.5,68840,Diane Lane,actress,7.432569344380403
+tt2378281,Instructions Not Included,115.0,"Comedy,Drama",7.6,26866,Eugenio Derbez,actor,7.42838688674853
+tt2359810,Raanjhanaa,140.0,"Drama,Romance",7.6,26828,A.R. Rahman,composer,7.428196916511302
+tt6826438,Parmanu: The Story of Pokhran,129.0,"Action,Drama,History",7.7,16918,Sandeep Chowta,composer,7.427755907527235
+tt3646462,Let's Sin,110.0,"Action,Crime,Drama",7.9,9738,Onur Ünlü,director,7.4273432967861694
+tt4229236,Cobain: Montage of Heck,145.0,"Animation,Biography,Documentary",7.6,26068,Eric Alan Edwards,cinematographer,7.424307189883223
+tt4272866,The Boy and the Beast,119.0,"Action,Adventure,Animation",7.7,16503,Mamoru Hosoda,director,7.4230489417989425
+tt2053425,Rust and Bone,120.0,"Drama,Romance",7.5,58887,Jacques Audiard,director,7.4224598754274185
+tt7748244,Ölümlü Dünya,107.0,"Action,Comedy",7.8,11933,Ali Demirel,writer,7.4193250527453305
+tt3767372,Piku,123.0,"Comedy,Drama",7.6,24878,Amitabh Bachchan,actor,7.417849890357649
+tt2150209,My Grandfather's People,126.0,"Comedy,Drama,Family",8.0,7750,Mustafa Oguz,producer,7.416547131147541
+tt1934231,Delhi Belly,103.0,"Action,Comedy,Crime",7.6,24622,Aamir Khan,producer,7.416398223958657
+tt2213054,Kai po che!,120.0,"Drama,Sport",7.6,24476,Abhishek Kapoor,director,7.415559912121591
+tt4540710,Miss Sloane,132.0,"Drama,Thriller",7.5,52788,John Madden,director,7.414615574409501
+tt2130321,West of Memphis,147.0,"Crime,Documentary",7.9,9264,Peter Jackson,producer,7.413978987711764
+tt1650048,Laurence Anyways,168.0,"Drama,Romance",7.7,15577,Nathalie Baye,actress,7.411935856047147
+tt2306745,Sound City,107.0,"Documentary,Music",7.8,11439,Paul Crowder,editor,7.409395625429009
+tt7282468,Burning,148.0,"Drama,Mystery",7.6,22671,Chang-dong Lee,director,7.404525662059593
+tt3742378,The Second Mother,112.0,"Comedy,Drama",7.8,10833,Regina Casé,actress,7.396484140620738
+tt5213534,Oasis: Supersonic,122.0,"Biography,Documentary,Music",7.9,8625,Paul Arthurs,self,7.3947189922480625
+tt1276104,Looper,113.0,"Action,Crime,Drama",7.4,500595,Bruce Willis,actor,7.391344814946025
+tt1219289,Limitless,105.0,"Mystery,Sci-Fi,Thriller",7.4,492490,Robert De Niro,actor,7.391204511590232
+tt2911666,John Wick,101.0,"Action,Crime,Thriller",7.4,449942,Keanu Reeves,actor,7.390386417840951
+tt2310332,The Hobbit: The Battle of the Five Armies,144.0,"Adventure,Fantasy",7.4,438621,Cate Blanchett,actress,7.390142458548242
+tt1570728,"Crazy, Stupid, Love.",118.0,"Comedy,Drama,Romance",7.4,436830,Julianne Moore,actress,7.390102724889159
+tt1229238,Mission: Impossible - Ghost Protocol,132.0,"Action,Adventure,Thriller",7.4,428142,Tom Cruise,actor,7.3899053437225986
+tt3808342,Son of Saul,107.0,"Drama,War",7.5,39232,Mátyás Erdély,cinematographer,7.389847294145339
+tt1396484,It,135.0,"Horror,Thriller",7.4,359123,Stephen King,writer,7.388004963545659
+tt1371111,Cloud Atlas,172.0,"Action,Drama,Mystery",7.4,326473,Tom Hanks,actor,7.386832300066174
+tt2381249,Mission: Impossible - Rogue Nation,131.0,"Action,Adventure,Thriller",7.4,311704,Tom Cruise,actor,7.386223054065739
+tt6788942,Bad Genius,130.0,"Comedy,Crime,Drama",7.7,13622,Jira Maligool,producer,7.385273352428747
+tt1440266,Pina,103.0,"Documentary,Music",7.7,13501,Wim Wenders,director,7.383460013808866
+tt1790885,Zero Dark Thirty,157.0,"Drama,Thriller",7.4,251072,Kathryn Bigelow,director,7.38299252722646
+tt3040964,The Jungle Book,106.0,"Adventure,Drama,Family",7.4,240821,Bill Murray,actor,7.38229043757878
+tt3799694,The Nice Guys,116.0,"Action,Comedy,Crime",7.4,240337,Russell Crowe,actor,7.382255852637016
+tt0443272,Lincoln,150.0,"Biography,Drama,History",7.4,228701,Steven Spielberg,director,7.381381720441489
+tt4975722,Moonlight,111.0,Drama,7.4,227964,Dede Gardner,producer,7.381323445409915
+tt1798684,Southpaw,124.0,"Drama,Sport",7.4,199783,Forest Whitaker,actor,7.378784288870771
+tt3065204,The Conjuring 2,134.0,"Drama,Horror,Mystery",7.4,194543,Rob Cowan,producer,7.378234057849072
+tt5607714,On Body and Soul,116.0,"Drama,Fantasy,Mystery",7.6,18985,Ildikó Enyedi,director,7.377320889182556
+tt2674426,Me Before You,106.0,"Drama,Romance",7.4,174567,Charles Dance,actor,7.375845945448654
+tt1120985,Blue Valentine,112.0,"Drama,Romance",7.4,170089,Derek Cianfrance,director,7.375236888264475
+tt1458175,The Next Three Days,133.0,"Action,Crime,Drama",7.4,168066,Russell Crowe,actor,7.37495154955971
+tt1872194,The Judge,141.0,"Crime,Drama",7.4,162952,Robert Downey Jr.,actor,7.374200031387136
+tt2069100,The Third Half,113.0,"Drama,History,Romance",7.9,7977,Klaus Fuxjäger,cinematographer,7.373563594365834
+tt1935179,Mud,130.0,Drama,7.4,156786,Matthew McConaughey,actor,7.3732317041622535
+tt6484982,Newton,106.0,Drama,7.7,12734,Raghuvir Yadav,actor,7.371461092715232
+tt4555426,Darkest Hour,125.0,"Biography,Drama,History",7.4,136546,Gary Oldman,actor,7.369470472973912
+tt2531318,The Beatles: Eight Days a Week - The Touring Years,106.0,"Documentary,Music",7.8,9666,Ron Howard,director,7.369051832109985
+tt1979319,Rurouni Kenshin Part I: Origins,134.0,"Action,Drama,History",7.6,18017,Eric Vale,actor,7.368873447113689
+tt1727388,The Way Way Back,103.0,"Comedy,Drama",7.4,132642,Toni Collette,actress,7.36861999793067
+tt1980929,Begin Again,104.0,"Comedy,Drama,Music",7.4,129884,Judd Apatow,producer,7.3679900406888725
+tt2905772,Thou Gild'st the Even,107.0,"Drama,Fantasy,Romance",7.9,7811,Onur Ünlü,director,7.367856034876887
+tt1213641,First Man,141.0,"Biography,Drama,History",7.4,120009,Kyle Chandler,actor,7.365511012948106
+tt2625030,New World,134.0,"Crime,Drama",7.6,17536,Min-sik Choi,actor,7.3644329665282
+tt3521126,The Disaster Artist,104.0,"Biography,Comedy,Drama",7.4,111737,Vince Jolivette,producer,7.3631183588147975
+tt0448115,Shazam!,132.0,"Action,Adventure,Comedy",7.4,109051,Darren Lemke,writer,7.362268395380563
+tt2884206,I Origins,106.0,"Drama,Romance,Sci-Fi",7.4,104718,Hunter Gray,producer,7.360811489689712
+tt1606384,My Way,137.0,"Action,Drama,War",7.8,9312,Dong-Gun Jang,actor,7.359977620152272
+tt6878038,A Taxi Driver,137.0,"Action,Drama,History",7.8,9301,Thomas Kretschmann,actor,7.359689527409083
+tt1675192,Take Shelter,121.0,"Drama,Horror,Thriller",7.4,83200,Sophia Lin,producer,7.351514264057332
+tt1668191,Hunting Season,140.0,"Crime,Drama,Mystery",7.5,27146,Gulengul Arliel,producer,7.351421340125844
+tt2617828,Free Fall,100.0,"Drama,Romance",7.6,15960,Attila Borlan,actor,7.348608002983802
+tt4572514,Patriots Day,133.0,"Action,Crime,Drama",7.4,76204,Mark Wahlberg,actor,7.347461814847559
+tt1083452,Eddie the Eagle,106.0,"Biography,Comedy,Drama",7.4,75331,Dexter Fletcher,director,7.346908086948123
+tt1229822,Jane Eyre,120.0,"Drama,Romance",7.4,74998,Jamie Bell,actor,7.346693783485661
+tt7048622,The Insult,113.0,"Crime,Drama,Thriller",7.7,11168,Rachid Bouchareb,producer,7.343900993679022
+tt1287878,Poetry,139.0,Drama,7.8,8682,Nae-sang Ahn,actor,7.342846604251639
+tt3029558,Rurouni Kenshin Part II: Kyoto Inferno,138.0,"Action,Adventure,Drama",7.7,10645,Satoshi Fukushima,producer,7.3336370212179665
+tt6139732,Aladdin,128.0,"Adventure,Comedy,Family",7.4,57549,Will Smith,actor,7.332394713984843
+tt5247022,Paterson,118.0,"Comedy,Drama,Romance",7.4,55285,Jim Jarmusch,director,7.3299568965517246
+tt3447364,Detective Byomkesh Bakshy!,139.0,"Action,Mystery,Thriller",7.6,14249,Saradindu Bandopadhyay,writer,7.32883092326084
+tt2234003,Calvary,102.0,Drama,7.4,52266,Patrick Cassidy,composer,7.3264187623397925
+tt4897822,Where to Invade Next,120.0,"Comedy,Documentary",7.5,21497,Tia Lessin,producer,7.322476247542849
+tt7401588,Instant Family,118.0,"Comedy,Drama",7.4,46728,Mark Wahlberg,actor,7.318904325256326
+tt5461944,Hotel Mumbai,123.0,"Drama,History,Thriller",7.7,9902,John Collee,writer,7.317994698885185
+tt4195278,Telling Tales,103.0,"Comedy,Fantasy,Romance",7.6,12965,Necati Akpinar,producer,7.31181743220132
+tt7469726,Shaadi Mein Zaroor Aana,137.0,"Drama,Family,Romance",7.7,9501,Anand Raj Anand,composer,7.30898439797659
+tt3678782,Badlapur,134.0,"Action,Crime,Drama",7.5,19336,Saif Ali Khan,producer,7.308180941645551
+tt5390504,Detroit,143.0,"Crime,Drama,History",7.4,40309,Kathryn Bigelow,director,7.308016142358134
+tt2567712,Starred Up,106.0,"Crime,Drama",7.4,39319,Gillian Berrie,producer,7.30607111963092
+tt3717532,The Last: Naruto the Movie,112.0,"Action,Adventure,Animation",7.7,9354,Seth Walther,writer,7.30557397353744
+tt4048272,Toni Erdmann,162.0,"Comedy,Drama",7.4,38095,Maren Ade,director,7.303549594253756
+tt5215952,The Wailing,156.0,"Horror,Mystery,Thriller",7.4,35486,Kyung-pyo Hong,cinematographer,7.297695616014517
+tt2395427,Avengers: Age of Ultron,141.0,"Action,Adventure,Sci-Fi",7.3,665594,Robert Downey Jr.,actor,7.294580762493797
+tt1489887,Booksmart,102.0,Comedy,7.5,17529,Jason Sudeikis,actor,7.294332324503577
+tt2396589,Mudbound,134.0,"Drama,War",7.4,33825,Jason Clarke,actor,7.293583635813674
+tt1670345,Now You See Me,115.0,"Crime,Mystery,Thriller",7.3,553156,Woody Harrelson,actor,7.293493949498445
+tt1825683,Black Panther,134.0,"Action,Adventure,Sci-Fi",7.3,516148,Kevin Feige,producer,7.293034144597135
+tt0478970,Ant-Man,117.0,"Action,Adventure,Comedy",7.3,501213,Michael Douglas,actor,7.292829638224303
+tt6908274,Mirage,128.0,"Drama,Mystery,Romance",7.5,17318,Mercedes Gamero,producer,7.2925837597711345
+tt1343092,The Great Gatsby,143.0,"Drama,Romance",7.3,433165,Leonardo DiCaprio,actor,7.291722382648952
+tt2179136,American Sniper,133.0,"Action,Biography,Drama",7.3,401915,Clint Eastwood,director,7.291090565196683
+tt3183660,Fantastic Beasts and Where to Find Them,132.0,"Adventure,Family,Fantasy",7.3,365353,James Newton Howard,composer,7.290216905187836
+tt4972582,Split,117.0,"Horror,Thriller",7.3,358543,Marc Bienstock,producer,7.29003489685638
+tt0903657,Love & Mercy,121.0,"Biography,Drama,Music",7.4,32238,John Cusack,actor,7.2893337296794005
+tt1596343,Fast Five,130.0,"Action,Crime,Thriller",7.3,329892,Vin Diesel,actor,7.289188670004031
+tt5580390,The Shape of Water,123.0,"Adventure,Drama,Fantasy",7.3,308112,Alexandre Desplat,composer,7.28844259327909
+tt3721954,Maudie,115.0,"Biography,Drama,Romance",7.6,11427,Ethan Hawke,actor,7.288399838854546
+tt1907668,Flight,138.0,"Drama,Thriller",7.3,303009,Denzel Washington,actor,7.288252655317559
+tt2097298,"McFarland, USA",129.0,"Biography,Drama,Sport",7.4,31735,Kevin Costner,actor,7.287914967503505
+tt1453405,Monsters University,104.0,"Adventure,Animation,Comedy",7.3,291887,Steve Buscemi,actor,7.287816250371593
+tt0359950,The Secret Life of Walter Mitty,114.0,"Adventure,Comedy,Drama",7.3,275300,Ben Stiller,actor,7.2871016398514845
+tt1638355,The Man from U.N.C.L.E.,116.0,"Action,Adventure,Comedy",7.3,240606,Guy Ritchie,director,7.285297992591876
+tt2140479,The Accountant,128.0,"Action,Crime,Drama",7.3,233022,Ben Affleck,actor,7.284834417433748
+tt1817273,The Place Beyond the Pines,140.0,"Crime,Drama,Thriller",7.3,226765,Derek Cianfrance,director,7.284429358845751
+tt1033575,The Descendants,115.0,"Comedy,Drama",7.3,223464,George Clooney,actor,7.284206819028074
+tt1798243,Rudderless,105.0,"Comedy,Drama,Music",7.5,16303,William H. Macy,director,7.283739182035879
+tt1332134,King of Devil's Island,116.0,"Action,Drama",7.5,16289,Stellan Skarsgård,actor,7.283611910967253
+tt1212450,Lawless,116.0,"Crime,Drama",7.3,214055,Guy Pearce,actor,7.2835361140574575
+tt2010914,Behzat Ç.: Seni Kalbime Gömdüm,110.0,"Action,Crime,Mystery",7.7,8462,Serdar Akar,director,7.283532373762687
+tt0983193,The Adventures of Tintin,107.0,"Action,Adventure,Animation",7.3,202430,Steven Spielberg,director,7.282624416472157
+tt1189340,The Lincoln Lawyer,118.0,"Crime,Drama,Thriller",7.3,196109,Matthew McConaughey,actor,7.282084995014954
+tt2883512,Chef,114.0,"Adventure,Comedy,Drama",7.3,173270,Dustin Hoffman,actor,7.2798215619295235
+tt7784604,Hereditary,127.0,"Drama,Horror,Mystery",7.3,151571,Gabriel Byrne,actor,7.277069005349813
+tt7533152,The Boy Who Harnessed the Wind,113.0,Drama,7.6,10725,Dick Pope,cinematographer,7.276397462277092
+tt1441912,The Way,123.0,"Adventure,Comedy,Drama",7.4,27811,Emilio Estevez,actor,7.275459311545977
+tt1438298,Guzaarish,126.0,Drama,7.5,15402,Hrithik Roshan,actor,7.275231147934678
+tt2258281,Beyond the Hills,152.0,Drama,7.6,10611,Cristian Mungiu,director,7.274360540555463
+tt5221584,Aquarius,146.0,Drama,7.5,15251,Sônia Braga,actress,7.273739341127863
+tt1964624,In the House,105.0,"Drama,Mystery,Thriller",7.4,27285,Kristin Scott Thomas,actress,7.273576074457381
+tt1668200,Sarah's Key,111.0,"Drama,War",7.5,15067,Kristin Scott Thomas,actress,7.271894525191652
+tt5098128,Nannaku Prematho,168.0,"Action,Drama,Thriller",7.7,8025,Jagapathi Babu,actor,7.271809581320451
+tt3495030,Dum Laga Ke Haisha,110.0,"Comedy,Drama,Romance",7.5,15017,Anu Malik,composer,7.2713880068392776
+tt3774114,Snowden,134.0,"Biography,Drama,Thriller",7.3,119149,Oliver Stone,director,7.27119869679192
+tt4116284,The Lego Batman Movie,104.0,"Action,Animation,Comedy",7.3,116433,Ralph Fiennes,actor,7.270567514302082
+tt6697582,Arif V 216,125.0,"Comedy,Sci-Fi",7.4,26404,Ozan Güven,actor,7.270290931748467
+tt3488710,The Walk,123.0,"Adventure,Biography,Drama",7.3,109714,Robert Zemeckis,director,7.26888037051888
+tt2404181,Belle,100.0,"Biography,Drama,Romance",7.4,25780,Miranda Richardson,actress,7.26785888671875
+tt4284010,"What Happened, Miss Simone?",101.0,"Biography,Documentary,Music",7.6,10251,Igor Martinovic,cinematographer,7.267756394005971
+tt4172430,13 Hours,144.0,"Action,Drama,History",7.3,103625,Michael Bay,director,7.267175196850394
+tt1023114,The Way Back,133.0,"Adventure,Drama,History",7.3,102126,Ed Harris,actor,7.266726358254429
+tt2621000,Jolly LLB,135.0,"Comedy,Drama",7.5,14547,Arshad Warsi,actor,7.2665144350705315
+tt5310090,Saala Khadoos,109.0,"Action,Drama,Sport",7.6,10178,Rajkumar Hirani,producer,7.266384418486254
+tt2652092,The Good Lie,110.0,"Biography,Drama",7.4,25232,Ron Howard,producer,7.265646576744471
+tt2170593,St. Vincent,102.0,"Comedy,Drama",7.3,89372,Bill Murray,actor,7.262345608122057
+tt1878870,The Edge of Seventeen,104.0,"Comedy,Drama",7.3,87602,James L. Brooks,producer,7.261644799793904
+tt6412452,The Ballad of Buster Scruggs,133.0,"Comedy,Drama,Musical",7.3,87418,Clancy Brown,actor,7.261570447649549
+tt1412386,The Best Exotic Marigold Hotel,124.0,"Comedy,Drama,Romance",7.3,85811,Judi Dench,actress,7.2609086147399555
+tt6299040,The Ghazi Attack,116.0,"Action,Thriller,War",7.6,9813,Gunnam Gangaraju,writer,7.259350993473112
+tt4727512,Srimanthudu,158.0,"Action,Drama",7.6,9798,Jagapathi Babu,actor,7.25905559891317
+tt1714915,Only Lovers Left Alive,123.0,"Comedy,Drama,Fantasy",7.3,80984,John Hurt,actor,7.258776092287871
+tt6264938,Kesari,150.0,"Action,Drama,History",7.7,7557,Karan Johar,producer,7.258500614332205
+tt1854513,Blancanieves,104.0,"Drama,Fantasy",7.6,9746,Pablo Berger,director,7.258027586106923
+tt3606888,A Street Cat Named Bob,103.0,"Biography,Comedy,Drama",7.4,23204,Roger Spottiswoode,director,7.256772529637832
+tt2556308,Holiday,160.0,"Action,Thriller",7.4,23132,Akshay Kumar,actor,7.256435875881431
+tt2057392,Eye in the Sky,102.0,"Drama,Thriller,War",7.3,72301,Colin Firth,producer,7.254290594729389
+tt3967856,Okja,120.0,"Action,Adventure,Drama",7.3,71875,Joon-ho Bong,director,7.254045275590551
+tt1289403,The Guernsey Literary and Potato Peel Pie Society,124.0,"Drama,History,Romance",7.4,22443,Mike Newell,director,7.253132409912166
+tt2980648,The Hundred-Foot Journey,122.0,"Comedy,Drama",7.3,69562,Steven Spielberg,producer,7.252665954037009
+tt6967980,Bareilly Ki Barfi,116.0,"Comedy,Romance",7.5,13239,Pankaj Tripathi,actor,7.251788598775255
+tt1198156,You're Not You,102.0,Drama,7.4,22156,Emmy Rossum,actress,7.2517110787024555
+tt3312830,Youth,124.0,"Comedy,Drama,Music",7.3,64418,Harvey Keitel,actor,7.249280343585751
+tt2059255,No,118.0,Drama,7.4,21464,Gael García Bernal,actor,7.248168200179533
+tt1810683,Little Boy,106.0,"Drama,History,War",7.4,20945,Michael Rapaport,actor,7.2453979170328715
+tt4633690,Shot Caller,121.0,"Crime,Drama,Thriller",7.3,58962,Ric Roman Waugh,director,7.245116664409737
+tt1821593,Bullhead,129.0,"Crime,Drama",7.4,20708,Alain Dessauvage,editor,7.244098970150313
+tt4575576,Christopher Robin,104.0,"Adventure,Animation,Comedy",7.3,52737,Ewan McGregor,actor,7.239444921725849
+tt4846232,Good Time,101.0,"Crime,Drama,Thriller",7.3,52305,Jennifer Jason Leigh,actress,7.239007503553214
+tt1313092,Animal Kingdom,113.0,"Crime,Drama",7.3,51576,Guy Pearce,actor,7.238254853916988
+tt1322385,Submarino,105.0,Drama,7.6,8705,Jakob Cedergren,actor,7.236059472385067
+tt2404425,Woman in Gold,109.0,"Biography,Drama,History",7.3,48501,Helen Mirren,actress,7.234864444384922
+tt1422032,Even the Rain,103.0,"Drama,History",7.5,11805,Icíar Bollaín,director,7.233351139601139
+tt1756476,Dookudu,170.0,"Action,Comedy",7.5,11792,Srinivasa Rao Kota,actor,7.233171457080655
+tt1705772,Mankatha,155.0,"Action,Crime,Thriller",7.5,11587,Ajith Kumar,actor,7.230305639964374
+tt2036416,You Are the Apple of My Eye,109.0,"Comedy,Drama,Romance",7.6,8312,Shao-Wen Hao,actor,7.227013897672654
+tt3073256,Nisshartho Bhalobasha: What is Love!,151.0,"Action,Comedy,Drama",7.6,8291,Abdur Razzak,actor,7.226517874105504
+tt2121382,Force Majeure,120.0,"Comedy,Drama",7.3,41818,Philippe Bober,producer,7.226038033780769
+tt5078204,Two Is a Family,118.0,"Comedy,Drama",7.4,17693,Eugenio Derbez,writer,7.225441342833327
+tt1393746,Aftershock,135.0,Drama,7.6,8205,Daoming Chen,actor,7.224472699777142
+tt5713232,Madaari,133.0,"Adventure,Drama,Thriller",7.5,11007,Irrfan Khan,actor,7.221853555411466
+tt3138782,The Miracle,136.0,"Drama,Romance",7.6,8046,Talat Bulut,actor,7.220631914962048
+tt1787988,Talaash,140.0,"Crime,Drama,Mystery",7.3,36306,Kareena Kapoor,actress,7.216731583573027
+tt5029608,Frantz,113.0,"Drama,History,Romance",7.5,10609,Reginald Berkeley,writer,7.215740446739192
+tt6752992,Happy as Lazzaro,128.0,"Drama,Fantasy",7.6,7795,Carlo Cresto-Dina,producer,7.214406260215757
+tt6135348,BPM (Beats Per Minute),143.0,Drama,7.5,10507,Robin Campillo,director,7.214130268784362
+tt1772424,Where Do We Go Now?,110.0,"Comedy,Drama",7.5,10405,Anne-Dominique Toussaint,producer,7.212501745322536
+tt6206564,Trapped,105.0,"Action,Drama,Thriller",7.6,7683,Vikramaditya Motwane,director,7.211561861950866
+tt7700730,October,115.0,"Drama,Romance",7.5,10327,Shantanu Moitra,composer,7.211243829584339
+tt4385888,20th Century Women,119.0,"Comedy,Drama",7.3,32057,Annette Bening,actress,7.207787338524156
+tt3029556,Rurouni Kenshin Part III: The Legend Ends,134.0,"Action,Adventure,Drama",7.6,7504,Tatsuya Fujiwara,actor,7.206927735937083
+tt1226837,Beautiful Boy,120.0,"Biography,Drama",7.3,30368,Maura Tierney,actress,7.203674441480933
+tt4025514,Suburra,130.0,"Crime,Drama,Thriller",7.4,14872,Claudio Amendola,actor,7.203430348203112
+tt6217608,The Rider,104.0,"Drama,Western",7.5,9811,Bert Hamelinck,producer,7.202636690543585
+tt1395054,Once Upon a Time in Mumbai,134.0,"Action,Crime,Drama",7.4,14681,Ajay Devgn,actor,7.201737692168974
+tt1396226,Twice Born,127.0,"Drama,Romance,War",7.4,14630,Penélope Cruz,actress,7.2012807840036155
+tt3756788,Our Little Sister,127.0,"Drama,Family",7.5,9728,Akimi Yoshida,writer,7.201204071859763
+tt1392170,The Hunger Games,142.0,"Action,Adventure,Sci-Fi",7.2,795227,Stanley Tucci,actor,7.1963902344757305
+tt1300854,Iron Man 3,130.0,"Action,Adventure,Sci-Fi",7.2,692794,Don Cheadle,actor,7.195862228935276
+tt1232829,21 Jump Street,109.0,"Action,Comedy,Crime",7.2,477771,Ice Cube,actor,7.194028787522848
+tt1800241,American Hustle,138.0,"Crime,Drama",7.2,418221,Christian Bale,actor,7.193193532266438
+tt1550312,Café de Flore,120.0,"Drama,Romance",7.4,13733,Pierre Cottereau,cinematographer,7.192885779211605
+tt3253930,Marshland,105.0,"Crime,Horror,Mystery",7.3,26372,José Antonio Félez,producer,7.192310573630137
+tt1431181,Another Year,129.0,"Comedy,Drama",7.3,26273,Jim Broadbent,actor,7.191994899772007
+tt2820852,Furious 7,137.0,"Action,Crime,Thriller",7.2,335074,Brian Tyler,composer,7.1915415173072095
+tt3416744,The End of the Tour,106.0,"Biography,Drama",7.3,25923,Anna Chlumsky,actress,7.19086388863956
+tt0455944,The Equalizer,132.0,"Action,Crime,Thriller",7.2,302302,Denzel Washington,actor,7.190646747761474
+tt1179933,10 Cloverfield Lane,103.0,"Drama,Horror,Mystery",7.2,260383,John Goodman,actor,7.1891831275220905
+tt1981677,Pitch Perfect,112.0,"Comedy,Music,Romance",7.2,256565,Elizabeth Banks,producer,7.189026731107871
+tt2771200,Beauty and the Beast,129.0,"Family,Fantasy,Musical",7.2,238325,Stephen Chbosky,writer,7.188212524153362
+tt5229228,61 Days,115.0,"Comedy,Drama",7.5,9001,Mirsad Herovic,cinematographer,7.188039740015757
+tt1931533,Seven Psychopaths,110.0,"Comedy,Crime",7.2,223493,Woody Harrelson,actor,7.187455653418069
+tt4192740,Limonata,110.0,"Comedy,Drama",7.5,8960,Ertan Saban,actor,7.187262682260025
+tt1192628,Rango,107.0,"Adventure,Animation,Comedy",7.2,215761,Johnny Depp,actor,7.187021216199874
+tt1640680,Armadillo,105.0,"Documentary,War",7.5,8906,Per K. Kirkegaard,editor,7.186233314031453
+tt4341582,Queen of Katwe,124.0,"Biography,Drama,Sport",7.4,13039,John B. Carls,producer,7.185887518866547
+tt3922798,The Siege of Jadotville,108.0,"Action,Biography,Drama",7.3,23979,Kevin Brodbin,writer,7.184124138314432
+tt1723811,Shame,101.0,Drama,7.2,171353,James Badge Dale,actor,7.183798671255166
+tt1441953,Testament of Youth,129.0,"Biography,Drama,History",7.3,23632,David Heyman,producer,7.182832575806244
+tt1527186,Melancholia,135.0,"Drama,Sci-Fi",7.2,153434,Kirsten Dunst,actress,7.181994754060671
+tt1139328,The Ghost Writer,128.0,"Drama,Mystery,Thriller",7.2,148274,Pierce Brosnan,actor,7.181398331878234
+tt1423894,Barney's Version,134.0,"Comedy,Drama",7.3,23058,Richard J. Lewis,director,7.180631708554224
+tt1655441,The Age of Adaline,112.0,"Drama,Fantasy,Romance",7.2,138924,Harrison Ford,actor,7.180210510230563
+tt2080374,Steve Jobs,122.0,"Biography,Drama",7.2,138668,Kate Winslet,actress,7.180175850733403
+tt1568911,War Horse,146.0,"Drama,History,War",7.2,136447,Steven Spielberg,director,7.179869978186416
+tt3532216,American Made,115.0,"Action,Biography,Comedy",7.2,131043,Tom Cruise,actor,7.179084787755426
+tt1809398,Unbroken,137.0,"Biography,Drama,Sport",7.2,129981,Ethan Coen,writer,7.178923223936399
+tt1399683,Winter's Bone,100.0,"Drama,Mystery",7.2,127751,Garret Dillahunt,actor,7.17857571293373
+tt7919680,Karwaan,114.0,"Comedy,Drama",7.5,8456,Amala Akkineni,actress,7.177384291175734
+tt3547740,La Famille Bélier,106.0,"Comedy,Drama,Music",7.3,21866,Thomas Bidegain,writer,7.175786411155758
+tt3300980,The 12th Man,135.0,"Drama,History,Thriller",7.4,12071,Jonathan Rhys Meyers,actor,7.175297314904707
+tt6294822,The Post,116.0,"Biography,Drama,History",7.2,108017,Tom Hanks,actor,7.1749157591523325
+tt1638002,"Love, Rosie",102.0,"Comedy,Romance",7.2,104983,Christian Cooke,actor,7.174239162806824
+tt7363076,Raid,122.0,"Action,Crime,Drama",7.4,11979,Ajay Devgn,actor,7.17423603624416
+tt1327773,Lee Daniels' The Butler,132.0,"Biography,Drama",7.2,102468,John Cusack,actor,7.1736500050014556
+tt2402927,Carol,118.0,"Drama,Romance",7.2,100680,Cate Blanchett,actress,7.1732144920502865
+tt4276820,The Founder,115.0,"Biography,Drama,History",7.2,97841,Michael Keaton,actor,7.172492607341871
+tt2763304,T2 Trainspotting,117.0,Drama,7.2,97010,Ewan McGregor,actor,7.172273885274137
+tt1839492,Ruby Sparks,104.0,"Comedy,Drama,Fantasy",7.2,90963,Antonio Banderas,actor,7.170571115545941
+tt2671706,Fences,139.0,Drama,7.2,86749,Denzel Washington,actor,7.169255310401172
+tt0490215,Silence,161.0,"Adventure,Drama,History",7.2,85242,Martin Scorsese,director,7.168755728256885
+tt1532503,Beginners,105.0,"Comedy,Drama,Romance",7.2,83770,Ewan McGregor,actor,7.168251821518571
+tt6450186,I Can Only Imagine,110.0,"Biography,Drama,Family",7.4,11439,Dennis Quaid,actor,7.167798920217542
+tt1343703,Fortress of War,138.0,"Action,Drama,History",7.5,7970,Aleksey Dudarev,writer,7.167249111182935
+tt1322269,August: Osage County,121.0,"Comedy,Drama",7.2,79383,George Clooney,producer,7.1666487546470545
+tt3850214,Dope,103.0,"Comedy,Crime,Drama",7.2,76557,Forest Whitaker,producer,7.165527484326112
+tt6266538,Vice,132.0,"Biography,Comedy,Drama",7.2,72855,Brad Pitt,producer,7.163939316159541
+tt6343314,Creed II,130.0,"Drama,Sport",7.2,72503,Sylvester Stallone,actor,7.163780655100434
+tt5982852,Jolly LLB 2,137.0,"Comedy,Drama",7.3,18968,Annu Kapoor,actor,7.162186177648481
+tt1912398,God Bless America,105.0,"Adventure,Comedy,Crime",7.2,65913,Bobcat Goldthwait,director,7.160529385122527
+tt4686844,The Death of Stalin,107.0,"Comedy,Drama,History",7.2,63156,Steve Buscemi,actor,7.158989240121151
+tt1020773,Certified Copy,106.0,"Drama,Romance",7.3,18210,Juliette Binoche,actress,7.158123055231428
+tt5580266,The Hate U Give,133.0,"Crime,Drama",7.3,17583,Wyck Godfrey,producer,7.154576555834629
+tt5932728,The Professor and the Madman,124.0,"Biography,Drama,Mystery",7.4,10383,Mel Gibson,actor,7.154087331543925
+tt4936450,Graduation,128.0,"Crime,Drama",7.4,10355,Lia Bugnar,actress,7.1537016942033045
+tt5478478,Hostiles,134.0,"Adventure,Drama,Western",7.2,53286,Scott Cooper,director,7.152330203500806
+tt1606392,Win Win,106.0,"Comedy,Drama,Sport",7.2,51618,Jeffrey Tambor,actor,7.15098521177983
+tt1230385,The Yellow Sea,157.0,"Action,Drama,Thriller",7.3,16246,Young-gyu Jang,composer,7.146388602290912
+tt2547584,The Light Between Oceans,133.0,"Drama,Romance",7.2,46247,Rachel Weisz,actress,7.146087107187379
+tt4995790,The Square,151.0,"Comedy,Drama",7.2,44239,Elisabeth Moss,actress,7.143994738011945
+tt0787524,The Man Who Knew Infinity,108.0,"Biography,Drama",7.2,43575,Jeremy Irons,actor,7.143266642192854
+tt1807950,Love Likes Coincidences,118.0,"Drama,Romance",7.3,15530,Altan Erkekli,actor,7.141612841945289
+tt1613750,Kon-Tiki,118.0,"Adventure,History",7.2,41707,Aage Aaberge,producer,7.141112926006463
+tt6173990,Gold,151.0,"Drama,History,Sport",7.4,9361,Javed Akhtar,writer,7.139181765612953
+tt1756750,Starbuck,109.0,"Comedy,Drama,Romance",7.3,15146,Yvann Thibaudeau,editor,7.138927128411199
+tt1244754,Conviction,107.0,"Biography,Crime,Drama",7.2,39771,Tony Goldwyn,director,7.1387011857164016
+tt5785170,Toilet: A Love Story,155.0,"Comedy,Drama",7.3,15021,Akshay Kumar,actor,7.138033113538475
+tt1972663,Into the Abyss,107.0,"Crime,Documentary,Drama",7.3,14885,Werner Herzog,self,7.137049084208176
+tt4190530,Anthropoid,120.0,"Biography,History,Thriller",7.2,38229,Anthony Frewin,writer,7.136634165409259
+tt3892172,Leave No Trace,109.0,Drama,7.2,33804,Ben Foster,actor,7.129845626331591
+tt1437358,Sleep Tight,102.0,"Drama,Horror,Thriller",7.2,33695,Jaume Balagueró,director,7.12966000121374
+tt2101473,The Physician,150.0,"Adventure,Drama,History",7.2,32932,Stellan Skarsgård,actor,7.128332601652157
+tt2179121,What's in a Name?,109.0,"Comedy,Drama",7.3,13735,Valérie Benguigui,actress,7.128224334824583
+tt6768578,Dogman,103.0,"Crime,Drama,Thriller",7.3,13486,Ugo Chiti,writer,7.126186207471648
+tt2224317,Lootera,136.0,"Drama,Romance",7.3,13416,Vikramaditya Motwane,director,7.125604501338689
+tt1937264,Now Is Good,103.0,"Drama,Romance",7.2,31335,Graham Broadbent,producer,7.125385444830695
+tt0896872,The Whistleblower,112.0,"Action,Biography,Crime",7.2,29826,Vanessa Redgrave,actress,7.122368958634732
+tt4595882,Can You Ever Forgive Me?,106.0,"Biography,Comedy,Crime",7.2,29473,Richard E. Grant,actor,7.12162777567414
+tt2222394,The Noble Family,108.0,Comedy,7.4,8269,Karla Souza,actress,7.121120156636439
+tt1629757,Chasing Mavericks,116.0,"Biography,Drama,Sport",7.2,28994,Elisabeth Shue,actress,7.120599105332384
+tt1533117,Let the Bullets Fly,132.0,"Action,Comedy,Western",7.4,8234,Yun-Fat Chow,actor,7.120499793440956
+tt4430136,Pyaar Ka Punchnama 2,137.0,"Comedy,Drama,Romance",7.3,12820,Omkar Kapoor,actor,7.1204893577755906
+tt3735246,Bajirao Mastani,158.0,"Action,Drama,History",7.2,28438,Tanvi Azmi,actress,7.119370687016528
+tt3202202,Palm Trees in the Snow,163.0,"Drama,Romance",7.4,8152,Mercedes Gamero,producer,7.119035506644519
+tt1661420,Polisse,127.0,"Crime,Drama",7.3,12506,Stephen Warbeck,composer,7.11767188593422
+tt6513120,Fighting with My Family,108.0,"Biography,Comedy,Drama",7.2,26704,Vince Vaughn,actor,7.115283117471641
+tt7125860,If Beale Street Could Talk,119.0,"Drama,Romance",7.2,25512,Regina King,actress,7.112224153338181
+tt2167266,Tracks,112.0,"Adventure,Biography,Drama",7.2,25370,John Curran,director,7.111844957407971
+tt3149038,A Brilliant Young Mind,111.0,"Drama,Romance",7.2,25326,Danny Cohen,cinematographer,7.11172679430939
+tt1028576,Secretariat,123.0,"Biography,Drama,Family",7.2,24536,Diane Lane,actress,7.109549998439257
+tt1600524,Heartbeats,101.0,"Drama,Romance",7.2,24426,Stéphanie Anne Weber Biron,cinematographer,7.109238355885485
+tt1646959,Bedevilled,115.0,"Drama,Horror,Thriller",7.3,11554,Yeong-hie Seo,actress,7.108562178545188
+tt2378507,The Glass Castle,127.0,"Biography,Drama",7.2,23580,Woody Harrelson,actor,7.106767816924068
+tt1925421,Elena,109.0,"Crime,Drama,Thriller",7.3,11307,Philip Glass,composer,7.106047947572712
+tt1784575,The Parade,115.0,"Comedy,Drama",7.3,10747,Srdjan Dragojevic,director,7.1000955636543
+tt2424988,Gabbar is Back,128.0,Action,7.2,21092,Kareena Kapoor,actress,7.098654999650252
+tt5662932,Raman Raghav 2.0,133.0,"Crime,Drama,Thriller",7.3,10563,Vikramaditya Motwane,producer,7.098059223274097
+tt2675914,Kraftidioten,116.0,"Action,Crime,Drama",7.2,20841,Stellan Skarsgård,actor,7.097757445044282
+tt2465578,Human Capital,111.0,Drama,7.3,10468,Fabrizio Bentivoglio,actor,7.096991526602849
+tt1405810,Loose Cannons,110.0,"Comedy,Drama,Romance",7.3,10462,Maurizio Calvesi,cinematographer,7.096923713951675
+tt0770828,Man of Steel,143.0,"Action,Adventure,Sci-Fi",7.1,647288,Diane Lane,actress,7.096720073901782
+tt3825638,Labyrinth of Lies,124.0,"Drama,History",7.3,10435,Jakob Claussen,producer,7.096617995539448
+tt2527336,Star Wars: The Last Jedi,152.0,"Action,Adventure,Fantasy",7.1,462903,George Lucas,writer,7.0954344333475765
+tt3148502,The Spectacle,139.0,"Comedy,Drama,Romance",7.2,19901,A.R. Rahman,composer,7.09424998175249
+tt1905041,Fast & Furious 6,130.0,"Action,Crime,Thriller",7.1,346747,Vin Diesel,actor,7.0939374045510615
+tt4015500,The Tale,114.0,"Drama,Mystery,Thriller",7.3,10178,Laura Dern,actress,7.093661259757892
+tt3754940,Truman,108.0,"Comedy,Drama",7.3,10160,Tomàs Aragay,writer,7.093450948471121
+tt5536610,Private Life,123.0,"Comedy,Drama",7.3,10125,Brian A. Kates,editor,7.093040780141845
+tt0433035,Real Steel,127.0,"Action,Drama,Family",7.1,283534,John Gatins,writer,7.092620600170426
+tt1245526,RED,111.0,"Action,Comedy,Crime",7.1,271570,Morgan Freeman,actor,7.092304238183968
+tt1477834,Aquaman,143.0,"Action,Adventure,Fantasy",7.1,263328,Willem Dafoe,actor,7.092070036148403
+tt5095030,Ant-Man and the Wasp,118.0,"Action,Adventure,Comedy",7.1,244024,Walton Goggins,actor,7.091461426146212
+tt1706620,Snowpiercer,126.0,"Action,Drama,Sci-Fi",7.1,239264,Ed Harris,actor,7.091296719740319
+tt1385826,The Adjustment Bureau,106.0,"Romance,Sci-Fi,Thriller",7.1,227616,Matt Damon,actor,7.09086554615594
+tt2660888,Star Trek Beyond,122.0,"Action,Adventure,Sci-Fi",7.1,209844,Justin Lin,director,7.0901186310641195
+tt1124035,The Ides of March,101.0,"Drama,Thriller",7.1,207417,George Clooney,actor,7.090007043416761
+tt1921149,Trash,114.0,"Adventure,Crime,Drama",7.2,18690,Martin Sheen,actor,7.089360204276442
+tt2361509,The Intern,121.0,"Comedy,Drama",7.1,191494,Robert De Niro,actor,7.089207432133632
+tt3464902,The Lobster,119.0,"Comedy,Drama,Romance",7.1,182622,Rachel Weisz,actress,7.088703799402489
+tt2719848,Everest,121.0,"Action,Adventure,Biography",7.1,181133,Nicky Kentish Barnes,producer,7.0886146313211365
+tt1340800,Tinker Tailor Soldier Spy,122.0,"Drama,Mystery,Thriller",7.1,174890,Colin Firth,actor,7.088224923241405
+tt3233418,Spare Parts,114.0,Drama,7.3,9694,Jamie Lee Curtis,actress,7.0878529574270095
+tt2053463,Side Effects,106.0,"Crime,Drama,Mystery",7.1,168466,Jude Law,actor,7.087795049896002
+tt3347976,Dügün Dernek,106.0,Comedy,7.2,18291,Necati Akpinar,producer,7.087648549881742
+tt5639354,A Fantastic Woman,104.0,Drama,7.2,18282,Sebastián Lelio,director,7.08760933015282
+tt2005151,War Dogs,114.0,"Comedy,Crime,Drama",7.1,154029,Stephen Chin,writer,7.08670420636542
+tt1876277,Into the White,104.0,"Action,Biography,Drama",7.2,18040,Stig Henrik Hoff,actor,7.086544391151135
+tt0810819,The Danish Girl,119.0,"Biography,Drama,Romance",7.1,146873,Tim Bevan,producer,7.086087876442123
+tt1860357,Deepwater Horizon,107.0,"Action,Drama,History",7.1,133303,Mark Wahlberg,actor,7.084747084579163
+tt1600196,The Drop,106.0,"Crime,Drama",7.1,132161,James Gandolfini,actor,7.084622362363151
+tt1560747,The Master,138.0,Drama,7.1,131365,Philip Seymour Hoffman,actor,7.084534214884959
+tt1334260,Never Let Me Go,103.0,"Drama,Romance,Sci-Fi",7.1,130084,Rachel Portman,composer,7.084390217975927
+tt1403981,Remember Me,113.0,"Drama,Romance",7.1,129443,Allen Coulter,director,7.084317152026755
+tt1389137,We Bought a Zoo,124.0,"Comedy,Drama,Family",7.1,126849,Matt Damon,actor,7.0840143488228415
+tt3495000,Mardaani,113.0,"Action,Crime,Drama",7.3,9386,Aditya Chopra,producer,7.083983403411109
+tt3640424,Allied,124.0,"Action,Drama,Romance",7.1,125741,Brad Pitt,actor,7.083881416005584
+tt0804497,It's Kind of a Funny Story,101.0,"Comedy,Drama,Romance",7.1,125583,Ryan Fleck,director,7.0838622795548645
+tt4178092,The Gift,108.0,"Drama,Mystery,Thriller",7.1,123834,Jason Bateman,actor,7.08364737044482
+tt1417075,In Darkness,145.0,"Drama,War",7.3,9328,Agnieszka Holland,director,7.083238872712147
+tt3470600,Sing,108.0,"Animation,Comedy,Family",7.1,115951,Matthew McConaughey,actor,7.082603168463601
+tt2305051,Wild,115.0,"Adventure,Biography,Drama",7.1,110138,Laura Dern,actress,7.081743516125742
+tt7160070,Along with the Gods: The Two Worlds,139.0,"Action,Drama,Fantasy",7.3,9190,Jun-seok Bang,composer,7.081446599760335
+tt1345777,Ishqiya,118.0,"Comedy,Drama,Romance",7.3,9183,Vishal Bhardwaj,writer,7.081354897200743
+tt1615147,Margin Call,107.0,"Drama,Thriller",7.1,107264,Kevin Spacey,actor,7.0812863245442825
+tt1228987,Let Me In,116.0,"Drama,Fantasy,Horror",7.1,107012,Alexander Yves Brunner,producer,7.081245142430487
+tt6857112,Us,116.0,"Horror,Mystery,Thriller",7.1,102511,Elisabeth Moss,actress,7.080477804492277
+tt5052474,Sicario: Day of the Soldado,122.0,"Action,Crime,Drama",7.1,95650,Josh Brolin,actor,7.079179289869122
+tt6628394,Bad Times at the El Royale,141.0,"Crime,Drama,Mystery",7.1,86318,Jeff Bridges,actor,7.077108270800912
+tt5848272,Ralph Breaks the Internet,112.0,"Adventure,Animation,Comedy",7.1,85694,John C. Reilly,actor,7.076954994420241
+tt1204342,The Muppets,103.0,"Adventure,Comedy,Family",7.1,82752,Jim Henson,writer,7.076203782187652
+tt3322364,Concussion,123.0,"Biography,Drama,Sport",7.1,77576,Will Smith,actor,7.074756026964126
+tt3671542,Holding the Man,127.0,"Biography,Drama,Romance",7.3,8642,Neil Armfield,director,7.074026994796183
+tt2094064,Much Ado About Nothing,109.0,"Comedy,Drama,Romance",7.2,15415,William Shakespeare,writer,7.073547621645211
+tt1291465,Raajneeti,163.0,"Crime,Drama",7.2,15214,Nana Patekar,actor,7.072428623316017
+tt2726560,The Longest Ride,123.0,"Drama,Romance",7.1,70327,Alan Alda,actor,7.072404740642707
+tt1840417,The Words,102.0,"Drama,Mystery,Romance",7.1,70308,Dennis Quaid,actor,7.072398002133456
+tt2494362,Bone Tomahawk,132.0,"Adventure,Drama,Horror",7.1,70298,Kurt Russell,actor,7.072394454227616
+tt3007512,The Water Diviner,111.0,"Drama,History,War",7.1,66595,Russell Crowe,actor,7.071014828935826
+tt2216240,A Hijacking,103.0,"Drama,Thriller",7.2,14771,Søren Malling,actor,7.069891057877959
+tt5255710,Sanam Teri Kasam,154.0,"Drama,Musical,Romance",7.3,8246,Vijay Raaz,actor,7.06834394449384
+tt5301662,Marshall,118.0,"Biography,Crime,Drama",7.2,14419,Kate Hudson,actress,7.067801621880561
+tt7959026,The Mule,116.0,"Crime,Drama,Thriller",7.1,58955,Clint Eastwood,actor,7.067682548340982
+tt1270262,The Devil's Double,109.0,"Biography,Drama,Thriller",7.1,58342,Paul Breuls,producer,7.067381667476686
+tt1783232,Conquest 1453,162.0,"Action,Drama,History",7.1,54741,Atilla Engin,writer,7.065494509246316
+tt3716530,Elle,130.0,"Crime,Drama,Thriller",7.1,54616,Paul Verhoeven,director,7.065425071640157
+tt1588337,Of Gods and Men,122.0,"Drama,History",7.2,13991,Michael Lonsdale,actor,7.065168849751059
+tt1753383,A Dog's Purpose,100.0,"Adventure,Comedy,Drama",7.1,53805,Dennis Quaid,actor,7.064967682081397
+tt0995868,Pelé: Birth of a Legend,107.0,"Biography,Drama,Sport",7.2,13919,Vincent D'Onofrio,actor,7.064715614641207
+tt4370784,The Innocents,115.0,"Drama,History",7.3,7987,Eric Altmayer,producer,7.0644697972493065
+tt1610452,Band Baaja Baaraat,139.0,"Comedy,Drama,Romance",7.2,13832,Aditya Chopra,producer,7.064163873523345
+tt2910904,The Dressmaker,119.0,"Comedy,Drama",7.1,46833,Kate Winslet,actress,7.060472341854857
+tt1285241,Don 2,148.0,"Action,Crime,Thriller",7.1,46503,Javed Akhtar,writer,7.0602307973631095
+tt5657856,Brawl in Cell Block 99,132.0,"Action,Crime,Drama",7.1,45507,Don Johnson,actor,7.059483535193465
+tt1371155,Made in Dagenham,113.0,"Biography,Comedy,Drama",7.2,13121,Bob Hoskins,actor,7.059480323456672
+tt3142872,A Small September Affair,106.0,"Drama,Mystery,Romance",7.3,7616,Aylin Tinel,editor,7.058689054644086
+tt2139881,Long Shot,125.0,"Comedy,Romance",7.2,12814,Charlize Theron,actress,7.057356687506154
+tt1836912,Shaitan,121.0,"Action,Crime,Drama",7.3,7503,Bejoy Nambiar,director,7.056871542358196
+tt4005402,Colonia,106.0,"Drama,Romance,Thriller",7.1,41738,Benjamin Herrmann,producer,7.0563821387952395
+tt1596346,Soul Surfer,112.0,"Biography,Drama,Family",7.1,41659,Helen Hunt,actress,7.056312043572896
+tt1416801,Kill the Irishman,106.0,"Biography,Crime,Drama",7.1,41504,Val Kilmer,actor,7.056173858256469
+tt2935476,Far from the Madding Crowd,119.0,"Drama,Romance",7.1,41099,Craig Armstrong,composer,7.055808632893681
+tt1716777,People Like Us,114.0,"Comedy,Drama",7.1,39618,Michelle Pfeiffer,actress,7.054419622012818
+tt3495026,Fan,138.0,"Action,Drama,Thriller",7.1,39130,Aditya Chopra,producer,7.053942606690971
+tt4082068,Dheepan,115.0,"Crime,Drama",7.2,12312,Jacques Audiard,director,7.0537423657379374
+tt2888046,Ip Man 3,105.0,"Action,Biography,Drama",7.1,38637,Mike Tyson,actor,7.053450457333593
+tt2076220,Holy Motors,115.0,"Drama,Fantasy",7.1,36874,Kylie Minogue,actress,7.051601021994862
+tt2113681,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,114.0,"Adventure,Comedy",7.1,35435,Malte Forssell,producer,7.049978892511937
+tt4176826,Look Who's Back,116.0,"Comedy,Drama,Fantasy",7.1,35402,Marco Kreuzpaintner,writer,7.049940416530698
+tt2990140,The Christmas Chronicles,104.0,"Adventure,Comedy,Family",7.1,35223,Kurt Russell,actor,7.0497306778550195
+tt2058107,The Railway Man,116.0,"Biography,Drama,Romance",7.1,34586,Colin Firth,actor,7.048969817754123
+tt1839494,Children Who Chase Lost Voices,116.0,"Adventure,Animation,Drama",7.2,11594,Hilary Haag,actress,7.0482425762019485
+tt2178470,Yeh Jawaani Hai Deewani,160.0,"Comedy,Drama,Musical",7.1,33971,Hiroo Johar,producer,7.048213058522823
+tt6053438,First Reformed,113.0,"Drama,Mystery,Thriller",7.1,33542,Ethan Hawke,actor,7.047671744798011
+tt2299842,Pieta,104.0,"Crime,Drama",7.2,11521,Jung-Jin Lee,actor,7.047660151937333
+tt4832640,Sultan,170.0,"Action,Drama,Sport",7.1,33371,Salman Khan,actor,7.047452808837562
+tt5093026,Papillon,133.0,"Adventure,Biography,Crime",7.1,32702,Ram Bergman,producer,7.046578372966519
+tt2178941,Barbara,105.0,Drama,7.2,11292,Rainer Bock,actor,7.0458037329714776
+tt5440700,Theri,157.0,"Action,Drama",7.2,11259,Kalaippuli S. Thanu,producer,7.0455324777440165
+tt3742284,NH10,115.0,"Action,Crime,Drama",7.2,11199,Anurag Kashyap,producer,7.045036833520509
+tt3499096,Race,134.0,"Biography,Drama,Sport",7.1,30777,Karsten Brünig,producer,7.043891730020639
+tt1895315,Brimstone,148.0,"Drama,Mystery,Thriller",7.1,30526,Guy Pearce,actor,7.043521373533898
+tt1641638,The Legend Is Born: Ip Man,100.0,"Action,Biography,Drama",7.1,29529,Kwong-Hung Chan,cinematographer,7.042000695400902
+tt5990474,Columbus,104.0,Drama,7.2,10735,Parker Posey,actress,7.041093707156568
+tt2101569,In Your Eyes,106.0,"Fantasy,Romance",7.1,28661,Mark Feuerstein,actor,7.040608493957579
+tt6472976,Five Feet Apart,116.0,"Drama,Romance",7.2,10645,Brian Tyler,composer,7.040305524938
+tt4882376,First They Killed My Father,136.0,"Biography,Drama,History",7.2,10511,Angelina Jolie,director,7.039117414357893
+tt2891174,99 Homes,112.0,Drama,7.1,26699,Clancy Brown,actor,7.037201197403434
+tt2025526,War of the Arrows,122.0,Action,7.2,10214,Hae-il Park,actor,7.036419992661172
+tt3792960,The Brand New Testament,114.0,"Comedy,Fantasy",7.1,25816,Catherine Deneuve,actress,7.035536791631648
+tt4814290,Te3n,136.0,"Drama,Mystery,Thriller",7.2,10027,Amitabh Bachchan,actor,7.034674716152223
+tt1734110,No One Killed Jessica,136.0,"Biography,Crime,Drama",7.2,10000,Rani Mukerji,actress,7.034419642857142
+tt2304771,Mandela: Long Walk to Freedom,141.0,"Biography,Drama,History",7.1,25027,Justin Chadwick,director,7.033973122329142
+tt1305797,Enthiran,155.0,"Action,Sci-Fi",7.1,23102,A.R. Rahman,composer,7.029819742173713
+tt5460276,Capable,139.0,"Action,Drama,Thriller",7.1,22179,Hrithik Roshan,actor,7.027637176117794
+tt5723272,In the Fade,106.0,"Crime,Drama,Thriller",7.1,22136,Hark Bohm,writer,7.027532182143339
+tt2364975,We Are the Best!,102.0,"Drama,Music",7.2,9290,Ulf Brantås,cinematographer,7.027417733770102
+tt1440232,Little White Lies,154.0,"Comedy,Drama",7.1,21787,Alain Attal,producer,7.026668615768088
+tt1648216,Three Steps Above Heaven,118.0,"Action,Drama,Romance",7.1,21173,Mercedes Gamero,producer,7.025098306769435
+tt2582502,Fathers & Daughters,116.0,Drama,7.1,21164,Russell Crowe,actor,7.025074788933854
+tt2072227,Shanghai,120.0,"Crime,Mystery,Thriller",7.2,9047,Prasenjit Chatterjee,actor,7.024883287000665
+tt5222918,The Other Side of Hope,100.0,"Comedy,Drama",7.2,9045,Samu Heikkilä,editor,7.024862118464792
+tt3170902,Theeb,100.0,"Adventure,Drama,Thriller",7.2,8921,Wolfgang Thaler,cinematographer,7.023539598684612
+tt3541262,The Admiral,126.0,"Action,Drama,History",7.2,8852,Min-sik Choi,actor,7.022794994496087
+tt1653665,Goodbye Christopher Robin,107.0,"Biography,Drama",7.1,20307,Carter Burwell,composer,7.022765625561909
+tt5165344,Rustom,148.0,"Crime,Drama,Thriller",7.1,19991,Manoj Bajpayee,actor,7.021877841839148
+tt2071613,Business Man,133.0,"Action,Crime,Thriller",7.2,8679,Shyam K. Naidu,cinematographer,7.020900163792571
+tt5340300,Lean on Pete,121.0,"Adventure,Drama",7.2,8607,Steve Buscemi,actor,7.020099568510586
+tt4899370,Megan Leavey,116.0,"Biography,Drama,War",7.1,18993,Tom Felton,actor,7.018934954516287
+tt3697626,A Hard Day,111.0,"Action,Crime,Thriller",7.2,8462,Sun-kyun Lee,actor,7.018465339556448
+tt4084744,Battle for Sevastopol,110.0,"Biography,Drama,Romance",7.2,8455,Sergey Mokritskiy,director,7.018385694139768
+tt2385104,D-Day,153.0,"Action,Thriller",7.2,8324,Nikkhil Advani,director,7.016882188447928
+tt1278449,Sound of Noise,102.0,"Comedy,Crime,Music",7.2,8313,Bengt Braskered,actor,7.016754806172137
+tt6133130,Professor Marston and the Wonder Women,108.0,"Biography,Drama",7.1,17954,Connie Britton,actress,7.015625982163904
+tt6692354,Coincidence,105.0,"Mystery,Thriller",7.2,8207,Hiroo Johar,producer,7.015518160692686
+tt4257926,Miracles from Heaven,109.0,"Biography,Drama,Family",7.1,17734,Jennifer Garner,actress,7.014890376079892
+tt2555958,Arrambam,157.0,"Action,Drama,Mystery",7.2,8057,Ajith Kumar,actor,7.013739393842001
+tt1594918,Eyyvah Eyvah,104.0,Comedy,7.1,16989,Demet Akbag,actress,7.012301186246885
+tt3042926,Atharintiki Daaredi,170.0,"Action,Comedy,Drama",7.2,7757,Pawan Kalyan,actor,7.010076931900112
+tt6491178,Dragged Across Concrete,159.0,"Adventure,Crime,Drama",7.1,16344,Mel Gibson,actor,7.009928860509982
+tt7581902,Sonu Ke Titu Ki Sweety,138.0,"Comedy,Romance",7.1,16318,Krishan Kumar,producer,7.009830537828533
+tt3142764,Race Gurram,163.0,"Action,Comedy",7.2,7601,Ravi Kishan,actor,7.0081149427190255
+tt3140100,Department Q: The Absent One,119.0,"Crime,Mystery,Thriller",7.1,15704,Jonas Bagger,producer,7.007444567746939
+tt0315642,Wazir,103.0,"Action,Crime,Drama",7.1,15378,Amitabh Bachchan,actor,7.0061256993618315
+tt1981107,The Young and Prodigious T.S. Spivet,105.0,"Action,Adventure,Comedy",7.1,15372,Helena Bonham Carter,actress,7.006101073364812
+tt5716464,Breathe,118.0,"Biography,Drama,Romance",7.1,15224,Hugh Bonneville,actor,7.005489515490231
