@@ -25,7 +25,7 @@ Our team moved through the three aforementioned data sources, standardizing and 
 
 ## Analysis and Recommendations
 #Recommendation 1
-[IMDb_Ratings_M_1.pdf](https://github.com/falloutb1tch/Movie_Project/files/13590486/IMDb_Ratings_M_1.pdf)
+[IMDb_Ratings_M_1.pdf](https://github.com/falloutb1tch/Movie_Project/Images/IMDb_Ratings_M_1.pdf)
 
 Our data shows a clear preference in audience opinion for action, adventure, and science-fiction films. The next few popular genres are drama, romance, comedy and fantasy, but even those are mixed with yet more and adventure. Furthermore, our data shows that it is not even a close comparison between "first place" and any following.
 
@@ -34,9 +34,7 @@ Our data shows a clear preference in audience opinion for action, adventure, and
 
 We were not given a budget for our movie enterprise, so we have established a range of genres that would be acceptable for budgetary reasons. Action, adventure and science-fiction once again reign supreme in terms of revenue, but they are also the most expensive to make. Depending on our available resources, this may not be the best option. Fantasy, comedy and animation are all acceptable choices for what could be considered a "medium" available budget, and animation has the further benefit of potentially employing larger-status actors or actresses without as much cost, since it is voice work. 
 
-#Recommendation 3
-
-[A_List_Actors.pdf](https://github.com/falloutb1tch/Movie_Project/files/13590515/A_List_Actors.pdf)
+#Recommendation 3[A_List_Actors.pdf](https://github.com/falloutb1tch/Movie_Project/files/13590515/A_List_Actors.pdf)
 
 Our research shows that there is a clear preference for certain actors or actresses involved in a project. Further statistical testing proved this to be the case (pending) and it is clear that Robert Downey Jr. would be a preferred actor for our first movie venture. As before, it may be possible to opt for voice work for budgetary purposes.
 
