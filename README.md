@@ -26,13 +26,13 @@ Our team moved through the three aforementioned data sources, standardizing and 
 ## Analysis and Recommendations
 # Recommendation 1
 
-![Popularity_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/ddca0d50-36be-41b1-819a-69aa90963728)
+![Popularity_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/8eec79be-7a21-4d00-b170-383ea87093df)
 
 Our data shows a clear preference in audience opinion for drama. Thusly, it would follow that if we want to have a decently popular (and therefore monetarily successful) movie, drama would be the genre to choose.
 
 # Recommendation 2
 
-![Median_Profits_and_Budgets_Comparison_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/46bc4802-4c56-4da0-976f-017fd6b7a1a9)
+![Median_Profits_and_Budgets_Comparison_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/402385eb-ce2b-47d4-9456-83df30a7ec24)
 
 We were not given a budget for our upcoming movie project, but based on revenue returned versus budget spent, our data shows that drama and action are the highest-earning genres as well. Mystery and thriller do also seem to be good options if our budget allows for it, but these genres also tend to cost more per the data.
 
