@@ -3,7 +3,7 @@
 # You come to me, on the day of my daughter's wedding, and ask me for a movie presentation?
 ## Overview
 
-Our team, consisting of Whitlee, Yiyi and Jacob, was asked to present three business recommendations as our company establishes its very own movie studio.
+Our team, consisting of Whitlee, Yiyi and Jacob, was asked to present three business recommendations as our company establishes its very own movie studio. If you'd like to follow along, you can do so [here](https://github.com/falloutb1tch/Movie_Project/blob/main/Final.ipynb).
 
 ## Business Understanding
 
@@ -47,9 +47,10 @@ Our research shows that there is a clear preference for certain actors or actres
 In conclusion, we advise that our company moves forward with its content-creation venture. Furthermore, we advise that drama is the most popular genre by public opinion, and that both drama and action earn well in the box office and thereby would properly return our investment. As an additional recommendation, Robert Downey Jr. would be the preferred choice of leading actor. Supplementarily speaking, animation might also be an applicable genre bringing us the best of all three worlds of popularity, budget-conscious, and star-power.
 
 ## Repo Structure
-
+```
 ├── data
 ├── images
 ├── README.md
 ├── Avionics Safety Report.pptx
-└── Final.ipynb
+└── [Final.ipynb](https://github.com/falloutb1tch/Movie_Project/blob/main/Final.ipynb)
+```
