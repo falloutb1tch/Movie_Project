@@ -21,7 +21,7 @@ Finally, as our third data source, we chose "tn.movie_budgets.csv.gz". This data
 
 ## Data Preparation
 
-Our team moved through the three aforementioned data sources, standardizing and cleaning up the data as needed. Both Pandas and SQL was employed for this.
+Our team moved through the three aforementioned data sources, standardizing and cleaning up the data as needed. Both Pandas and SQL was employed for this. More specifically, our first set of data was subset by popularity, so that we would only be dealing with the most popular (and thusly most successful) movies in our data. We did this by finding the mean vote count average and then excluding those that fell below that marker - meaning that if fewer people went to see (and therefore voted on) a movie, we didn't care about it. Our second set of data was budgetary in nature, and therefore was not especially subset; low-budget or high-budget all mattered to us. Our third data set, tables from a SQL database, were joined per what we needed and those that were useless to us were discarded as we turned the SQL tables into a functioning Pandas dataframe to be joined with the rest of the information.
 
 ## Analysis and Recommendations
 # Recommendation 1
