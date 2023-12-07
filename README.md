@@ -24,20 +24,26 @@ Finally, as our third data source, we chose "tn.movie_budgets.csv.gz". This data
 Our team moved through the three aforementioned data sources, standardizing and cleaning up the data as needed. Both Pandas and SQL was employed for this.
 
 ## Analysis and Recommendations
-#Recommendation 1
+# Recommendation 1
 
 ![Popularity_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/ddca0d50-36be-41b1-819a-69aa90963728)
 
 Our data shows a clear preference in audience opinion for drama. Thusly, it would follow that if we want to have a decently popular (and therefore monetarily successful) movie, drama would be the genre to choose.
 
-#Recommendation 2
-[IMDb_Budgets_M_1.pdf](https://github.com/falloutb1tch/Movie_Project/files/13590499/IMDb_Budgets_M_1.pdf)
+# Recommendation 2
 
-We were not given a budget for our movie enterprise, so we have established a range of genres that would be acceptable for budgetary reasons. Action, adventure and science-fiction once again reign supreme in terms of revenue, but they are also the most expensive to make. Depending on our available resources, this may not be the best option. Fantasy, comedy and animation are all acceptable choices for what could be considered a "medium" available budget, and animation has the further benefit of potentially employing larger-status actors or actresses without as much cost, since it is voice work. 
+![Median_Profits_and_Budgets_Comparison_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/46bc4802-4c56-4da0-976f-017fd6b7a1a9)
 
-#Recommendation 3[A_List_Actors.pdf](https://github.com/falloutb1tch/Movie_Project/files/13590515/A_List_Actors.pdf)
+We were not given a budget for our upcoming movie project, but based on revenue returned versus budget spent, our data shows that drama and action are the highest-earning genres as well. Mystery and thriller do also seem to be good options if our budget allows for it, but these genres also tend to cost more per the data.
+
+# Recommendation 3
+
+![Actor_Popularity__Earnings](https://github.com/falloutb1tch/Movie_Project/assets/149413838/5655a291-482b-4e70-ac76-d776bead438d)
 
 Our research shows that there is a clear preference for certain actors or actresses involved in a project. Further statistical testing proved this to be the case (pending) and it is clear that Robert Downey Jr. would be a preferred actor for our first movie venture. As before, it may be possible to opt for voice work for budgetary purposes.
 
 ## Conlusion and Next Steps
+
+In conclusion, we advise that our company moves forward with its content-creation venture. Furthermore, we advise that drama is the most popular genre by public opinion, and that both drama and action earn well in the box office and thereby would properly return our investment. As an additional recommendation, Robert Downey Jr. would be the preferred choice of leading actor. Supplementarily speaking, animation might also be an applicable genre bringing us the best of all three worlds of popularity, budget-conscious, and star-power.
+
 ## Repo Structure
