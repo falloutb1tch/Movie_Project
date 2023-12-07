@@ -52,5 +52,5 @@ In conclusion, we advise that our company moves forward with its content-creatio
 ├── images
 ├── README.md
 ├── Avionics Safety Report.pptx
-└── [Final.ipynb](https://github.com/falloutb1tch/Movie_Project/blob/main/Final.ipynb)
+└── Final.ipynb
 ```
