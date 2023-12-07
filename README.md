@@ -25,9 +25,10 @@ Our team moved through the three aforementioned data sources, standardizing and 
 
 ## Analysis and Recommendations
 #Recommendation 1
-[IMDb_Ratings_M_1.pdf](https://github.com/falloutb1tch/Movie_Project/Images/IMDb_Ratings_M_1.pdf)
 
-Our data shows a clear preference in audience opinion for action, adventure, and science-fiction films. The next few popular genres are drama, romance, comedy and fantasy, but even those are mixed with yet more and adventure. Furthermore, our data shows that it is not even a close comparison between "first place" and any following.
+![Popularity_Across_Movie_Genres](https://github.com/falloutb1tch/Movie_Project/assets/149413838/ddca0d50-36be-41b1-819a-69aa90963728)
+
+Our data shows a clear preference in audience opinion for drama. Thusly, it would follow that if we want to have a decently popular (and therefore monetarily successful) movie, drama would be the genre to choose.
 
 #Recommendation 2
 [IMDb_Budgets_M_1.pdf](https://github.com/falloutb1tch/Movie_Project/files/13590499/IMDb_Budgets_M_1.pdf)
